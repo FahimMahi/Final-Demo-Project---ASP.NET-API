@@ -1,0 +1,37 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 17
+VisualStudioVersion = 17.9.34622.214
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "HEMS_FinalDemoProject", "HEMS_FinalDemoProject\HEMS_FinalDemoProject.csproj", "{B78BF399-CA2A-489C-8B7B-D29E79A7D1A7}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "BLL", "BLL\BLL.csproj", "{48029651-F187-4617-B9A2-85A86B2E63C5}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "DAL", "DAL\DAL.csproj", "{B5D4EA70-4046-4684-BC6D-E29F9A47A0D0}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{B78BF399-CA2A-489C-8B7B-D29E79A7D1A7}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{B78BF399-CA2A-489C-8B7B-D29E79A7D1A7}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{B78BF399-CA2A-489C-8B7B-D29E79A7D1A7}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{B78BF399-CA2A-489C-8B7B-D29E79A7D1A7}.Release|Any CPU.Build.0 = Release|Any CPU
+		{48029651-F187-4617-B9A2-85A86B2E63C5}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{48029651-F187-4617-B9A2-85A86B2E63C5}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{48029651-F187-4617-B9A2-85A86B2E63C5}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{48029651-F187-4617-B9A2-85A86B2E63C5}.Release|Any CPU.Build.0 = Release|Any CPU
+		{B5D4EA70-4046-4684-BC6D-E29F9A47A0D0}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{B5D4EA70-4046-4684-BC6D-E29F9A47A0D0}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{B5D4EA70-4046-4684-BC6D-E29F9A47A0D0}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{B5D4EA70-4046-4684-BC6D-E29F9A47A0D0}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {AB066542-EED0-4F13-B940-C39AC50BF157}
+	EndGlobalSection
+EndGlobal
