@@ -19,5 +19,13 @@ namespace DAL
         {
             return new BuyerRepo();
         }
+        public static IRepo<Landlord, int> LandlordData()
+        {
+            return new LandlordRepo();
+        }
+        public static IRepo<Management, int> ManagementData()
+        {
+            return new ManagementRepo();
+        }
     }
 }

@@ -58,11 +58,19 @@
     <Compile Include="Migrations\202404271433531_InitDBWithUserAndBuyer.Designer.cs">
       <DependentUpon>202404271433531_InitDBWithUserAndBuyer.cs</DependentUpon>
     </Compile>
+    <Compile Include="Migrations\202404281822467_InitDBWithLandlordAndManagement.cs" />
+    <Compile Include="Migrations\202404281822467_InitDBWithLandlordAndManagement.Designer.cs">
+      <DependentUpon>202404281822467_InitDBWithLandlordAndManagement.cs</DependentUpon>
+    </Compile>
     <Compile Include="Migrations\Configuration.cs" />
     <Compile Include="Models\Buyer.cs" />
+    <Compile Include="Models\Landlord.cs" />
+    <Compile Include="Models\Management.cs" />
     <Compile Include="Models\User.cs" />
     <Compile Include="Properties\AssemblyInfo.cs" />
     <Compile Include="Repos\BuyerRepo.cs" />
+    <Compile Include="Repos\LandlordRepo.cs" />
+    <Compile Include="Repos\ManagementRepo.cs" />
     <Compile Include="Repos\Repo.cs" />
     <Compile Include="Repos\UserRepo.cs" />
   </ItemGroup>
@@ -73,6 +81,9 @@
   <ItemGroup>
     <EmbeddedResource Include="Migrations\202404271433531_InitDBWithUserAndBuyer.resx">
       <DependentUpon>202404271433531_InitDBWithUserAndBuyer.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="Migrations\202404281822467_InitDBWithLandlordAndManagement.resx">
+      <DependentUpon>202404281822467_InitDBWithLandlordAndManagement.cs</DependentUpon>
     </EmbeddedResource>
   </ItemGroup>
   <Import Project="$(MSBuildToolsPath)\Microsoft.CSharp.targets" />
