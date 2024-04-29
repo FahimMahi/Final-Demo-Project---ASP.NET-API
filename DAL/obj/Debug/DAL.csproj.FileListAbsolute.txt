@@ -12,3 +12,18 @@ D:\Semester\13) Spring 2024\Advanced .NET\Advanced-Programming-With-.NET_Lab-Tas
 D:\Semester\13) Spring 2024\Advanced .NET\Advanced-Programming-With-.NET_Lab-Task\HEMS_FinalDemoProject\DAL\obj\Debug\DAL.pdb
 D:\Semester\13) Spring 2024\Advanced .NET\Advanced-Programming-With-.NET_Lab-Task\HEMS_FinalDemoProject\DAL\obj\Debug\DAL.Migrations.InitDBWithUserAndBuyer.resources
 D:\Semester\13) Spring 2024\Advanced .NET\Advanced-Programming-With-.NET_Lab-Task\HEMS_FinalDemoProject\DAL\obj\Debug\DAL.csproj.GenerateResource.cache
+E:\New folder (2)\Final-Demo-Project---ASP.NET-API\DAL\bin\Debug\DAL.dll.config
+E:\New folder (2)\Final-Demo-Project---ASP.NET-API\DAL\bin\Debug\DAL.dll
+E:\New folder (2)\Final-Demo-Project---ASP.NET-API\DAL\bin\Debug\DAL.pdb
+E:\New folder (2)\Final-Demo-Project---ASP.NET-API\DAL\bin\Debug\EntityFramework.dll
+E:\New folder (2)\Final-Demo-Project---ASP.NET-API\DAL\bin\Debug\EntityFramework.SqlServer.dll
+E:\New folder (2)\Final-Demo-Project---ASP.NET-API\DAL\bin\Debug\EntityFramework.xml
+E:\New folder (2)\Final-Demo-Project---ASP.NET-API\DAL\bin\Debug\EntityFramework.SqlServer.xml
+E:\New folder (2)\Final-Demo-Project---ASP.NET-API\DAL\obj\Debug\DAL.csproj.AssemblyReference.cache
+E:\New folder (2)\Final-Demo-Project---ASP.NET-API\DAL\obj\Debug\DAL.Migrations.InitDBWithUserAndBuyer.resources
+E:\New folder (2)\Final-Demo-Project---ASP.NET-API\DAL\obj\Debug\DAL.Migrations.InitDBWithLandlordAndManagement.resources
+E:\New folder (2)\Final-Demo-Project---ASP.NET-API\DAL\obj\Debug\DAL.csproj.GenerateResource.cache
+E:\New folder (2)\Final-Demo-Project---ASP.NET-API\DAL\obj\Debug\DAL.csproj.CoreCompileInputs.cache
+E:\New folder (2)\Final-Demo-Project---ASP.NET-API\DAL\obj\Debug\DAL.csproj.Up2Date
+E:\New folder (2)\Final-Demo-Project---ASP.NET-API\DAL\obj\Debug\DAL.dll
+E:\New folder (2)\Final-Demo-Project---ASP.NET-API\DAL\obj\Debug\DAL.pdb

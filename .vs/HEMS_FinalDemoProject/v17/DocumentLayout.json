@@ -1,7 +1,16 @@
 {
   "Version": 1,
-  "WorkspaceRootPath": "D:\\Semester\\13) Spring 2024\\Advanced .NET\\Advanced-Programming-With-.NET_Lab-Task\\HEMS_FinalDemoProject\\",
-  "Documents": [],
+  "WorkspaceRootPath": "E:\\New folder (2)\\Final-Demo-Project---ASP.NET-API\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{B5D4EA70-4046-4684-BC6D-E29F9A47A0D0}|DAL\\DAL.csproj|e:\\new folder (2)\\final-demo-project---asp.net-api\\dal\\dataaccessfactory.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{B5D4EA70-4046-4684-BC6D-E29F9A47A0D0}|DAL\\DAL.csproj|solutionrelative:dal\\dataaccessfactory.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{B5D4EA70-4046-4684-BC6D-E29F9A47A0D0}|DAL\\DAL.csproj|e:\\new folder (2)\\final-demo-project---asp.net-api\\dal\\hemscontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{B5D4EA70-4046-4684-BC6D-E29F9A47A0D0}|DAL\\DAL.csproj|solutionrelative:dal\\hemscontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
   "DocumentGroupContainers": [
     {
       "Orientation": 0,
@@ -9,11 +18,37 @@
       "DocumentGroups": [
         {
           "DockedWidth": 200,
-          "SelectedChildIndex": -1,
+          "SelectedChildIndex": 1,
           "Children": [
             {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "HEMSContext.cs",
+              "DocumentMoniker": "E:\\New folder (2)\\Final-Demo-Project---ASP.NET-API\\DAL\\HEMSContext.cs",
+              "RelativeDocumentMoniker": "DAL\\HEMSContext.cs",
+              "ToolTip": "E:\\New folder (2)\\Final-Demo-Project---ASP.NET-API\\DAL\\HEMSContext.cs",
+              "RelativeToolTip": "DAL\\HEMSContext.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAA8AAAA2AAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-04-29T05:18:02.885Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "DataAccessFactory.cs",
+              "DocumentMoniker": "E:\\New folder (2)\\Final-Demo-Project---ASP.NET-API\\DAL\\DataAccessFactory.cs",
+              "RelativeDocumentMoniker": "DAL\\DataAccessFactory.cs",
+              "ToolTip": "E:\\New folder (2)\\Final-Demo-Project---ASP.NET-API\\DAL\\DataAccessFactory.cs",
+              "RelativeToolTip": "DAL\\DataAccessFactory.cs",
+              "ViewState": "AQIAAAgAAAAAAAAAAADwvxMAAAAjAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-04-29T05:17:36.691Z",
+              "EditorCaption": ""
+            },
+            {
               "$type": "Bookmark",
-              "Name": "ST:0:0:{74946827-37a0-11d2-a273-00c04f8ef4ff}"
+              "Name": "ST:0:0:{cce594b6-0c39-4442-ba28-10c64ac7e89f}"
             }
           ]
         }
