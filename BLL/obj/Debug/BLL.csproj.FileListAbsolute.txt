@@ -26,3 +26,17 @@ E:\New folder (2)\Final-Demo-Project---ASP.NET-API\BLL\obj\Debug\BLL.csproj.Core
 E:\New folder (2)\Final-Demo-Project---ASP.NET-API\BLL\obj\Debug\BLL.csproj.Up2Date
 E:\New folder (2)\Final-Demo-Project---ASP.NET-API\BLL\obj\Debug\BLL.dll
 E:\New folder (2)\Final-Demo-Project---ASP.NET-API\BLL\obj\Debug\BLL.pdb
+F:\New folder\Final-Demo-Project---ASP.NET-API\BLL\bin\Debug\BLL.dll
+F:\New folder\Final-Demo-Project---ASP.NET-API\BLL\bin\Debug\BLL.pdb
+F:\New folder\Final-Demo-Project---ASP.NET-API\BLL\bin\Debug\AutoMapper.dll
+F:\New folder\Final-Demo-Project---ASP.NET-API\BLL\bin\Debug\DAL.dll
+F:\New folder\Final-Demo-Project---ASP.NET-API\BLL\bin\Debug\EntityFramework.dll
+F:\New folder\Final-Demo-Project---ASP.NET-API\BLL\bin\Debug\DAL.pdb
+F:\New folder\Final-Demo-Project---ASP.NET-API\BLL\bin\Debug\DAL.dll.config
+F:\New folder\Final-Demo-Project---ASP.NET-API\BLL\bin\Debug\AutoMapper.xml
+F:\New folder\Final-Demo-Project---ASP.NET-API\BLL\bin\Debug\EntityFramework.xml
+F:\New folder\Final-Demo-Project---ASP.NET-API\BLL\obj\Debug\BLL.csproj.AssemblyReference.cache
+F:\New folder\Final-Demo-Project---ASP.NET-API\BLL\obj\Debug\BLL.csproj.CoreCompileInputs.cache
+F:\New folder\Final-Demo-Project---ASP.NET-API\BLL\obj\Debug\BLL.csproj.CopyComplete
+F:\New folder\Final-Demo-Project---ASP.NET-API\BLL\obj\Debug\BLL.dll
+F:\New folder\Final-Demo-Project---ASP.NET-API\BLL\obj\Debug\BLL.pdb

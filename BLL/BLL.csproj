@@ -46,14 +46,20 @@
   </ItemGroup>
   <ItemGroup>
     <Compile Include="Class1.cs" />
+    <Compile Include="DTOs\BiddingDTO.cs" />
     <Compile Include="DTOs\BuyerDTO.cs" />
     <Compile Include="DTOs\LandlordDTO.cs" />
+    <Compile Include="DTOs\FavPropertyDTO.cs" />
     <Compile Include="DTOs\ManagementDTO.cs" />
+    <Compile Include="DTOs\PropertyBiddingDTO.cs" />
+    <Compile Include="DTOs\PropertyDTO.cs" />
     <Compile Include="DTOs\UserDTO.cs" />
     <Compile Include="Properties\AssemblyInfo.cs" />
+    <Compile Include="Services\BiddingService.cs" />
     <Compile Include="Services\BuyerService.cs" />
     <Compile Include="Services\LandlordService.cs" />
     <Compile Include="Services\ManagementService.cs" />
+    <Compile Include="Services\PropertyService.cs" />
     <Compile Include="Services\UserService.cs" />
   </ItemGroup>
   <ItemGroup>

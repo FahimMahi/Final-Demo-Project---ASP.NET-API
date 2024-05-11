@@ -17,5 +17,6 @@ namespace BLL.DTOs
         [Required]
         public string address { get; set; }
         public int userid { get; set; }
+        
     }
 }

@@ -14,5 +14,8 @@ namespace DAL
         public DbSet<Buyer> Buyers { get; set; }
         public DbSet<Management> Managements { get; set; }
         public DbSet<Landlord> Landlords { get; set; }
+        public DbSet<Bidding> Biddings { get; set; }
+        public DbSet<Property> Properties { get; set; }
+   
     }
 }
