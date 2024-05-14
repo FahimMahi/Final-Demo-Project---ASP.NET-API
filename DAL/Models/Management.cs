@@ -20,8 +20,6 @@ namespace DAL.Models
         public string designation { get; set; }
         [Required]
         public string address { get; set; }
-        [ForeignKey("User")]
         public int userid { get; set; }
-        public virtual User User { get; set; }
     }
 }

@@ -27,5 +27,19 @@ namespace DAL
         {
             return new ManagementRepo();
         }
+        public static IRepoPropertyBidding<Bidding, int> BiddingData()
+        {
+            return new BiddingRepo();
+        }
+        public static IRepoPropertyBidding<Property, int> PropertyData()
+        {
+            return new PropertyRepo();
+        }
+        //public static IRepoPropertyBidding<FavProperty, int> FavPropertyData()
+        //{
+        //    return new FavPropertyRepo();
+        //}
+
+
     }
 }

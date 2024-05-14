@@ -58,5 +58,20 @@ namespace BLL.Services
         {
             return DataAccessFactory.BuyerData().Delete(id);
         }
+        ///new
+        public static FavPropertyDTO BuyerFavProperty(int id)
+        {
+            var data = DataAccessFactory.BuyerData().Read(id);
+            var cfg = new MapperConfiguration(c =>
+            {
+                c.CreateMap<Buyer, FavPropertyDTO>();
+                c.CreateMap<Property , PropertyDTO>();
+
+            });
+            var mapper = new Mapper(cfg);
+            var mapped = mapper.Map<FavPropertyDTO>(data);
+            return mapped;
+
+        }
     }
 }
