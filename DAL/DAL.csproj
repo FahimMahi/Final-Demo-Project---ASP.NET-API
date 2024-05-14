@@ -62,17 +62,23 @@
     <Compile Include="Migrations\Configuration.cs" />
     <Compile Include="Models\Bidding.cs" />
     <Compile Include="Models\Buyer.cs" />
+    <Compile Include="Models\Feedback.cs" />
     <Compile Include="Models\Landlord.cs" />
     <Compile Include="Models\Management.cs" />
+    <Compile Include="Models\Membership.cs" />
     <Compile Include="Models\Property.cs" />
+    <Compile Include="Models\SupportTicket.cs" />
     <Compile Include="Models\User.cs" />
     <Compile Include="Properties\AssemblyInfo.cs" />
     <Compile Include="Repos\BiddingRepo.cs" />
     <Compile Include="Repos\BuyerRepo.cs" />
+    <Compile Include="Repos\FeedbackRepo.cs" />
     <Compile Include="Repos\LandlordRepo.cs" />
     <Compile Include="Repos\ManagementRepo.cs" />
+    <Compile Include="Repos\MembershipRepo.cs" />
     <Compile Include="Repos\PropertyRepo.cs" />
     <Compile Include="Repos\Repo.cs" />
+    <Compile Include="Repos\SupportTicketRepo.cs" />
     <Compile Include="Repos\UserRepo.cs" />
   </ItemGroup>
   <ItemGroup>

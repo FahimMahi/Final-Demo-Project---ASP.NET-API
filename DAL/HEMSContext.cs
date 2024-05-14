@@ -16,6 +16,10 @@ namespace DAL
         public DbSet<Landlord> Landlords { get; set; }
         public DbSet<Bidding> Biddings { get; set; }
         public DbSet<Property> Properties { get; set; }
-   
+        public DbSet<SupportTicket> SupportTickets { get; set; }
+
+        public DbSet<Membership> Memberships { get; set; }
+
+        public DbSet<Feedback> Feedbacks { get; set; }
     }
 }

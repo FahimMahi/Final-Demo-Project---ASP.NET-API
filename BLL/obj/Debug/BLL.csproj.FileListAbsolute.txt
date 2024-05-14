@@ -40,3 +40,17 @@ F:\New folder\Final-Demo-Project---ASP.NET-API\BLL\obj\Debug\BLL.csproj.CoreComp
 F:\New folder\Final-Demo-Project---ASP.NET-API\BLL\obj\Debug\BLL.csproj.CopyComplete
 F:\New folder\Final-Demo-Project---ASP.NET-API\BLL\obj\Debug\BLL.dll
 F:\New folder\Final-Demo-Project---ASP.NET-API\BLL\obj\Debug\BLL.pdb
+D:\Semester\13) Spring 2024\Advanced .NET\Final-Demo-Project---ASP.NET-API\BLL\bin\Debug\BLL.dll
+D:\Semester\13) Spring 2024\Advanced .NET\Final-Demo-Project---ASP.NET-API\BLL\bin\Debug\BLL.pdb
+D:\Semester\13) Spring 2024\Advanced .NET\Final-Demo-Project---ASP.NET-API\BLL\bin\Debug\AutoMapper.dll
+D:\Semester\13) Spring 2024\Advanced .NET\Final-Demo-Project---ASP.NET-API\BLL\bin\Debug\DAL.dll
+D:\Semester\13) Spring 2024\Advanced .NET\Final-Demo-Project---ASP.NET-API\BLL\bin\Debug\EntityFramework.dll
+D:\Semester\13) Spring 2024\Advanced .NET\Final-Demo-Project---ASP.NET-API\BLL\bin\Debug\DAL.pdb
+D:\Semester\13) Spring 2024\Advanced .NET\Final-Demo-Project---ASP.NET-API\BLL\bin\Debug\DAL.dll.config
+D:\Semester\13) Spring 2024\Advanced .NET\Final-Demo-Project---ASP.NET-API\BLL\bin\Debug\AutoMapper.xml
+D:\Semester\13) Spring 2024\Advanced .NET\Final-Demo-Project---ASP.NET-API\BLL\bin\Debug\EntityFramework.xml
+D:\Semester\13) Spring 2024\Advanced .NET\Final-Demo-Project---ASP.NET-API\BLL\obj\Debug\BLL.csproj.AssemblyReference.cache
+D:\Semester\13) Spring 2024\Advanced .NET\Final-Demo-Project---ASP.NET-API\BLL\obj\Debug\BLL.csproj.CoreCompileInputs.cache
+D:\Semester\13) Spring 2024\Advanced .NET\Final-Demo-Project---ASP.NET-API\BLL\obj\Debug\BLL.csproj.Up2Date
+D:\Semester\13) Spring 2024\Advanced .NET\Final-Demo-Project---ASP.NET-API\BLL\obj\Debug\BLL.dll
+D:\Semester\13) Spring 2024\Advanced .NET\Final-Demo-Project---ASP.NET-API\BLL\obj\Debug\BLL.pdb

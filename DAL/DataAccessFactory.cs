@@ -40,6 +40,18 @@ namespace DAL
         //    return new FavPropertyRepo();
         //}
 
+        public static IRepo<SupportTicket, int> SupportTicketData()
+        {
+            return new SupportTicketRepo();
+        }
 
+        public static IRepo<Membership, int> MembershipData()
+        {
+            return new MembershipRepo();
+        }
+        public static IRepo<Feedback, int> FeedbackData()
+        {
+            return new FeedbackRepo();
+        }
     }
 }

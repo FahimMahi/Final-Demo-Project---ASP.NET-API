@@ -94,9 +94,12 @@
     <Compile Include="App_Start\WebApiConfig.cs" />
     <Compile Include="Controllers\BiddingController.cs" />
     <Compile Include="Controllers\BuyerController.cs" />
+    <Compile Include="Controllers\FeedbackController.cs" />
     <Compile Include="Controllers\LandlordController.cs" />
     <Compile Include="Controllers\ManagementController.cs" />
+    <Compile Include="Controllers\MembershipController.cs" />
     <Compile Include="Controllers\PropertyController.cs" />
+    <Compile Include="Controllers\SupportTicketController.cs" />
     <Compile Include="Controllers\UserController.cs" />
     <Compile Include="Global.asax.cs">
       <DependentUpon>Global.asax</DependentUpon>
