@@ -39,6 +39,15 @@ namespace DAL
         //{
         //    return new FavPropertyRepo();
         //}
+        public static IRepo<Payment, int> PaymentData()
+        {
+            return new PaymentRepo();
+        }
+
+        public static IRepo<Review, int> ReviewData()
+        {
+            return new ReviewRepo();
+        }
 
         public static IRepo<SupportTicket, int> SupportTicketData()
         {
