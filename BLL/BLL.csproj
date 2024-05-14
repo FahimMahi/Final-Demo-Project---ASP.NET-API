@@ -53,8 +53,10 @@
     <Compile Include="DTOs\FavPropertyDTO.cs" />
     <Compile Include="DTOs\ManagementDTO.cs" />
     <Compile Include="DTOs\MembershipDTO.cs" />
+    <Compile Include="DTOs\PaymentDTO.cs" />
     <Compile Include="DTOs\PropertyBiddingDTO.cs" />
     <Compile Include="DTOs\PropertyDTO.cs" />
+    <Compile Include="DTOs\ReviewDTO.cs" />
     <Compile Include="DTOs\SupportTicketDTO.cs" />
     <Compile Include="DTOs\UserDTO.cs" />
     <Compile Include="Properties\AssemblyInfo.cs" />
@@ -64,7 +66,9 @@
     <Compile Include="Services\LandlordService.cs" />
     <Compile Include="Services\ManagementService.cs" />
     <Compile Include="Services\MembershipService.cs" />
+    <Compile Include="Services\PaymentService.cs" />
     <Compile Include="Services\PropertyService.cs" />
+    <Compile Include="Services\ReviewService.cs" />
     <Compile Include="Services\SupportTicketService.cs" />
     <Compile Include="Services\UserService.cs" />
   </ItemGroup>
