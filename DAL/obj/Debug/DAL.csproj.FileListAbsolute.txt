@@ -55,3 +55,17 @@ D:\Semester\13) Spring 2024\Advanced .NET\Final-Demo-Project---ASP.NET-API\DAL\o
 D:\Semester\13) Spring 2024\Advanced .NET\Final-Demo-Project---ASP.NET-API\DAL\obj\Debug\DAL.csproj.Up2Date
 D:\Semester\13) Spring 2024\Advanced .NET\Final-Demo-Project---ASP.NET-API\DAL\obj\Debug\DAL.dll
 D:\Semester\13) Spring 2024\Advanced .NET\Final-Demo-Project---ASP.NET-API\DAL\obj\Debug\DAL.pdb
+F:\New folder (2)\Final-Demo-Project---ASP.NET-API\DAL\obj\Debug\DAL.csproj.AssemblyReference.cache
+F:\New folder (2)\Final-Demo-Project---ASP.NET-API\DAL\obj\Debug\DAL.csproj.CoreCompileInputs.cache
+F:\New folder (2)\Final-Demo-Project---ASP.NET-API\DAL\obj\Debug\DAL.dll
+F:\New folder (2)\Final-Demo-Project---ASP.NET-API\DAL\obj\Debug\DAL.pdb
+F:\New folder (2)\Final-Demo-Project---ASP.NET-API\DAL\bin\Debug\DAL.dll.config
+F:\New folder (2)\Final-Demo-Project---ASP.NET-API\DAL\bin\Debug\DAL.dll
+F:\New folder (2)\Final-Demo-Project---ASP.NET-API\DAL\bin\Debug\DAL.pdb
+F:\New folder (2)\Final-Demo-Project---ASP.NET-API\DAL\bin\Debug\EntityFramework.dll
+F:\New folder (2)\Final-Demo-Project---ASP.NET-API\DAL\bin\Debug\EntityFramework.SqlServer.dll
+F:\New folder (2)\Final-Demo-Project---ASP.NET-API\DAL\bin\Debug\EntityFramework.xml
+F:\New folder (2)\Final-Demo-Project---ASP.NET-API\DAL\bin\Debug\EntityFramework.SqlServer.xml
+F:\New folder (2)\Final-Demo-Project---ASP.NET-API\DAL\obj\Debug\DAL.csproj.Up2Date
+F:\New folder (2)\Final-Demo-Project---ASP.NET-API\DAL\obj\Debug\DAL.Migrations.All.resources
+F:\New folder (2)\Final-Demo-Project---ASP.NET-API\DAL\obj\Debug\DAL.csproj.GenerateResource.cache

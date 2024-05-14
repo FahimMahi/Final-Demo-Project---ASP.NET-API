@@ -55,9 +55,9 @@
     <Compile Include="HEMSContext.cs" />
     <Compile Include="Interfaces\IRepo.cs" />
     <Compile Include="Interfaces\IRepoPropertyBidding.cs" />
-    <Compile Include="Migrations\202405111547435_initdb.cs" />
-    <Compile Include="Migrations\202405111547435_initdb.designer.cs">
-      <DependentUpon>202405111547435_initdb.cs</DependentUpon>
+    <Compile Include="Migrations\202405142250040_All.cs" />
+    <Compile Include="Migrations\202405142250040_All.Designer.cs">
+      <DependentUpon>202405142250040_All.cs</DependentUpon>
     </Compile>
     <Compile Include="Migrations\Configuration.cs" />
     <Compile Include="Models\Bidding.cs" />
@@ -90,8 +90,8 @@
     <None Include="packages.config" />
   </ItemGroup>
   <ItemGroup>
-    <EmbeddedResource Include="Migrations\202405111547435_initdb.resx">
-      <DependentUpon>202405111547435_initdb.cs</DependentUpon>
+    <EmbeddedResource Include="Migrations\202405142250040_All.resx">
+      <DependentUpon>202405142250040_All.cs</DependentUpon>
     </EmbeddedResource>
   </ItemGroup>
   <Import Project="$(MSBuildToolsPath)\Microsoft.CSharp.targets" />
