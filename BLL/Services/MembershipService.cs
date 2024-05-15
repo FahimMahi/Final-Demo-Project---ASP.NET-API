@@ -43,6 +43,8 @@ namespace BLL.Services
             var mapper = new Mapper(cfg);
             var mapped = mapper.Map<Membership>(obj);
             mapped.CreatedAt = DateTime.Now;
+            mapped.StartDate = DateTime.Now;
+            mapped.Status = "Pending";
             DataAccessFactory.MembershipData().Create(mapped);
         }
         public static void Update(MembershipDTO appdetail)

@@ -43,6 +43,7 @@ namespace BLL.Services
             var mapper = new Mapper(cfg);
             var mapped = mapper.Map<SupportTicket>(obj);
             mapped.CreatedAt = DateTime.Now;
+            mapped.Status = "Pending";
             DataAccessFactory.SupportTicketData().Create(mapped);
         }
         public static void Update(SupportTicketDTO appdetail)
