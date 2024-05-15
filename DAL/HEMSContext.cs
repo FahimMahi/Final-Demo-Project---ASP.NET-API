@@ -17,6 +17,8 @@ namespace DAL
         public DbSet<Bidding> Biddings { get; set; }
         public DbSet<Property> Properties { get; set; }
         public DbSet<SupportTicket> SupportTickets { get; set; }
+        public DbSet<Agreement> Agreements { get; set; }
+        public DbSet<Complain> Complains { get; set; }
 
         public DbSet<Membership> Memberships { get; set; }
 

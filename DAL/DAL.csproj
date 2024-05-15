@@ -54,14 +54,17 @@
     <Compile Include="DataAccessFactory.cs" />
     <Compile Include="HEMSContext.cs" />
     <Compile Include="Interfaces\IRepo.cs" />
+    <Compile Include="Interfaces\IRepoDurjoy.cs" />
     <Compile Include="Interfaces\IRepoPropertyBidding.cs" />
-    <Compile Include="Migrations\202405150033348_AllDone.cs" />
-    <Compile Include="Migrations\202405150033348_AllDone.Designer.cs">
-      <DependentUpon>202405150033348_AllDone.cs</DependentUpon>
+    <Compile Include="Migrations\202405150448156_ComplainAndAgreementAdded.cs" />
+    <Compile Include="Migrations\202405150448156_ComplainAndAgreementAdded.Designer.cs">
+      <DependentUpon>202405150448156_ComplainAndAgreementAdded.cs</DependentUpon>
     </Compile>
     <Compile Include="Migrations\Configuration.cs" />
+    <Compile Include="Models\Agreement.cs" />
     <Compile Include="Models\Bidding.cs" />
     <Compile Include="Models\Buyer.cs" />
+    <Compile Include="Models\Complain.cs" />
     <Compile Include="Models\Feedback.cs" />
     <Compile Include="Models\Landlord.cs" />
     <Compile Include="Models\Management.cs" />
@@ -73,8 +76,10 @@
     <Compile Include="Models\Token.cs" />
     <Compile Include="Models\User.cs" />
     <Compile Include="Properties\AssemblyInfo.cs" />
+    <Compile Include="Repos\AgreementRepo.cs" />
     <Compile Include="Repos\BiddingRepo.cs" />
     <Compile Include="Repos\BuyerRepo.cs" />
+    <Compile Include="Repos\ComplainRepo.cs" />
     <Compile Include="Repos\FeedbackRepo.cs" />
     <Compile Include="Repos\IRepo.cs" />
     <Compile Include="Repos\LandlordRepo.cs" />
@@ -92,8 +97,8 @@
     <None Include="packages.config" />
   </ItemGroup>
   <ItemGroup>
-    <EmbeddedResource Include="Migrations\202405150033348_AllDone.resx">
-      <DependentUpon>202405150033348_AllDone.cs</DependentUpon>
+    <EmbeddedResource Include="Migrations\202405150448156_ComplainAndAgreementAdded.resx">
+      <DependentUpon>202405150448156_ComplainAndAgreementAdded.cs</DependentUpon>
     </EmbeddedResource>
   </ItemGroup>
   <Import Project="$(MSBuildToolsPath)\Microsoft.CSharp.targets" />

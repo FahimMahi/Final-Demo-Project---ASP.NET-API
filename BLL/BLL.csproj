@@ -46,12 +46,16 @@
   </ItemGroup>
   <ItemGroup>
     <Compile Include="Class1.cs" />
+    <Compile Include="DTOs\AgreementDTO.cs" />
     <Compile Include="DTOs\BiddingDTO.cs" />
     <Compile Include="DTOs\BuyerDTO.cs" />
+    <Compile Include="DTOs\ComplainDTO.cs" />
     <Compile Include="DTOs\FeedbackDTO.cs" />
     <Compile Include="DTOs\LandlordDTO.cs" />
     <Compile Include="DTOs\FavPropertyDTO.cs" />
     <Compile Include="DTOs\TokenDTO.cs" />
+    <Compile Include="Services\AgreementService.cs" />
+    <Compile Include="Services\ComplainService.cs" />
     <Compile Include="Services\MailService.cs" />
     <Compile Include="DTOs\ManagementDTO.cs" />
     <Compile Include="DTOs\MembershipDTO.cs" />
