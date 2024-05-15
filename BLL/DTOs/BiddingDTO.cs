@@ -11,7 +11,7 @@ namespace BLL.DTOs
     {
         public int Id { get; set; }
         public int BiddingAmount { get; set; }
-        public DateTime TimeDuration { get; set; }
+        //public DateTime TimeDuration { get; set; }
         public int PropertyId { get; set; }
         public int BidderId { get; set; }
         public int BuyerID { get; set; }

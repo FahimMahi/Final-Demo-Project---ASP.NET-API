@@ -54,16 +54,38 @@
     <Compile Include="DataAccessFactory.cs" />
     <Compile Include="HEMSContext.cs" />
     <Compile Include="Interfaces\IRepo.cs" />
+    <Compile Include="Interfaces\IRepoLikedProperty.cs" />
     <Compile Include="Interfaces\IRepoPropertyBidding.cs" />
     <Compile Include="Migrations\202405111547435_initdb.cs" />
     <Compile Include="Migrations\202405111547435_initdb.designer.cs">
       <DependentUpon>202405111547435_initdb.cs</DependentUpon>
+    </Compile>
+    <Compile Include="Migrations\202405142312332_updatedb.cs" />
+    <Compile Include="Migrations\202405142312332_updatedb.designer.cs">
+      <DependentUpon>202405142312332_updatedb.cs</DependentUpon>
+    </Compile>
+    <Compile Include="Migrations\202405142320180_likelist.cs" />
+    <Compile Include="Migrations\202405142320180_likelist.designer.cs">
+      <DependentUpon>202405142320180_likelist.cs</DependentUpon>
+    </Compile>
+    <Compile Include="Migrations\202405142323550_likelistSolved.cs" />
+    <Compile Include="Migrations\202405142323550_likelistSolved.designer.cs">
+      <DependentUpon>202405142323550_likelistSolved.cs</DependentUpon>
+    </Compile>
+    <Compile Include="Migrations\202405150043268_PropertyAndBiddingModelFix.cs" />
+    <Compile Include="Migrations\202405150043268_PropertyAndBiddingModelFix.designer.cs">
+      <DependentUpon>202405150043268_PropertyAndBiddingModelFix.cs</DependentUpon>
+    </Compile>
+    <Compile Include="Migrations\202405150115423_BiddingIssueSolved.cs" />
+    <Compile Include="Migrations\202405150115423_BiddingIssueSolved.designer.cs">
+      <DependentUpon>202405150115423_BiddingIssueSolved.cs</DependentUpon>
     </Compile>
     <Compile Include="Migrations\Configuration.cs" />
     <Compile Include="Models\Bidding.cs" />
     <Compile Include="Models\Buyer.cs" />
     <Compile Include="Models\Feedback.cs" />
     <Compile Include="Models\Landlord.cs" />
+    <Compile Include="Models\LikedProperty.cs" />
     <Compile Include="Models\Management.cs" />
     <Compile Include="Models\Membership.cs" />
     <Compile Include="Models\Payment.cs" />
@@ -92,6 +114,21 @@
   <ItemGroup>
     <EmbeddedResource Include="Migrations\202405111547435_initdb.resx">
       <DependentUpon>202405111547435_initdb.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="Migrations\202405142312332_updatedb.resx">
+      <DependentUpon>202405142312332_updatedb.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="Migrations\202405142320180_likelist.resx">
+      <DependentUpon>202405142320180_likelist.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="Migrations\202405142323550_likelistSolved.resx">
+      <DependentUpon>202405142323550_likelistSolved.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="Migrations\202405150043268_PropertyAndBiddingModelFix.resx">
+      <DependentUpon>202405150043268_PropertyAndBiddingModelFix.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="Migrations\202405150115423_BiddingIssueSolved.resx">
+      <DependentUpon>202405150115423_BiddingIssueSolved.cs</DependentUpon>
     </EmbeddedResource>
   </ItemGroup>
   <Import Project="$(MSBuildToolsPath)\Microsoft.CSharp.targets" />

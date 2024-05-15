@@ -35,10 +35,7 @@ namespace DAL
         {
             return new PropertyRepo();
         }
-        //public static IRepoPropertyBidding<FavProperty, int> FavPropertyData()
-        //{
-        //    return new FavPropertyRepo();
-        //}
+        
         public static IRepo<Payment, int> PaymentData()
         {
             return new PaymentRepo();
@@ -62,5 +59,10 @@ namespace DAL
         {
             return new FeedbackRepo();
         }
+        public static IRepoLikedProperty<LikedProperty, int> LikedPropertyData() 
+        {
+            return new BuyerRepo();
+        }
+
     }
 }

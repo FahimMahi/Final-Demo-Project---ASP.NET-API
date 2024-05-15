@@ -46,5 +46,23 @@ namespace HEMS_FinalDemoProject.Controllers
             BuyerService.Update(buyerDTO);
             return Request.CreateResponse(HttpStatusCode.OK);
         }
+        //feature API(tahmeed)..................................................
+        [HttpGet]
+        [Route("api/buyer/likelist/{id}")]
+        public HttpResponseMessage AllBiddings(string id)
+        {
+            var data = BuyerService.LikedProperty(id);
+            return Request.CreateResponse(HttpStatusCode.OK, data);
+        }
+
+        [HttpPost]
+        [Route("api/property/liked")]
+        public HttpResponseMessage UpdateBuyerDetail(LikedPropertyDTO obj)
+        {
+            BuyerService.PropertyLiked(obj);
+            return Request.CreateResponse(HttpStatusCode.OK);
+        }
+
+
     }
 }

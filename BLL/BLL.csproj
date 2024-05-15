@@ -51,6 +51,7 @@
     <Compile Include="DTOs\FeedbackDTO.cs" />
     <Compile Include="DTOs\LandlordDTO.cs" />
     <Compile Include="DTOs\FavPropertyDTO.cs" />
+    <Compile Include="DTOs\LikedPropertyDTO.cs" />
     <Compile Include="DTOs\ManagementDTO.cs" />
     <Compile Include="DTOs\MembershipDTO.cs" />
     <Compile Include="DTOs\PaymentDTO.cs" />

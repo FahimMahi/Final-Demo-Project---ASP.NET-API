@@ -1,5 +1,6 @@
 ﻿using System;
 using System.Collections.Generic;
+using System.ComponentModel.DataAnnotations;
 using System.ComponentModel.DataAnnotations.Schema;
 using System.Linq;
 using System.Text;
@@ -9,9 +10,11 @@ namespace DAL.Models
 {
     public class Bidding
     {
+        [Key]
         public int Id { get; set; }
+        [Required]
         public int BiddingAmount { get; set; }
-        public DateTime TimeDuration { get; set; }
+        //public DateTime TimeDuration { get; set; }
 
 
         [ForeignKey("Property")]
@@ -19,8 +22,8 @@ namespace DAL.Models
         
         [ForeignKey("Buyer")]
         public int BidderId { get; set; }
-        
-        
+
+        [Required]
         public int BuyerID { get; set; }
         public virtual Buyer Buyer { get; set; }
         public virtual Property Property { get; set; }

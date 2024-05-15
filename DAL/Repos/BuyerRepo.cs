@@ -8,12 +8,19 @@ using System.Threading.Tasks;
 
 namespace DAL.Repos
 {
-    internal class BuyerRepo : Repo, IRepo<Buyer, int>
+    internal class BuyerRepo : Repo, IRepo<Buyer, int>,IRepoLikedProperty<LikedProperty,int>
     {
         public void Create(Buyer obj)
         {
             db.Buyers.Add(obj);
             db.SaveChanges();
+        }
+
+        public LikedProperty Create(LikedProperty obj)
+        {
+            db.likedProperties.Add(obj);
+            db.SaveChanges();
+            return obj;
         }
 
         public bool Delete(int id)
@@ -31,6 +38,13 @@ namespace DAL.Repos
         public Buyer Read(int id)
         {
             return db.Buyers.Find(id);
+        }
+
+        public List<LikedProperty> Read(string id)
+        {
+            int Id = Convert.ToInt32(id);
+            var data = db.likedProperties.Where(f => f.BuyerId == Id).ToList();
+            return data;
         }
 
         public void Update(Buyer obj)

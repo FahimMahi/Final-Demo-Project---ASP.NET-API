@@ -11,13 +11,21 @@ namespace HEMS_FinalDemoProject.Controllers
 {
     public class BiddingController : ApiController
     {
-
+        //Can only bid on the bidding type property  
         [HttpPost]
         [Route("api/property/bidding/create")]
         public HttpResponseMessage Biddings(BiddingDTO bid)
         {
-            BiddingService.Create(bid);
-            return Request.CreateResponse(HttpStatusCode.OK);
+            var data=BiddingService.Create(bid);
+            if (data != null)
+            {
+                return Request.CreateResponse(HttpStatusCode.OK, "Bidding successfull.");
+            }
+            else 
+            {
+
+            }
+            return Request.CreateResponse(HttpStatusCode.NotFound, "Property with the specified ID and type 'Bidding' not found.");
         }
 
         //all biddings of an individual property

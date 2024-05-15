@@ -55,3 +55,22 @@ D:\Semester\13) Spring 2024\Advanced .NET\Final-Demo-Project---ASP.NET-API\DAL\o
 D:\Semester\13) Spring 2024\Advanced .NET\Final-Demo-Project---ASP.NET-API\DAL\obj\Debug\DAL.csproj.Up2Date
 D:\Semester\13) Spring 2024\Advanced .NET\Final-Demo-Project---ASP.NET-API\DAL\obj\Debug\DAL.dll
 D:\Semester\13) Spring 2024\Advanced .NET\Final-Demo-Project---ASP.NET-API\DAL\obj\Debug\DAL.pdb
+F:\Final-Demo-Project---ASP.NET-API\DAL\obj\Debug\DAL.csproj.AssemblyReference.cache
+F:\Final-Demo-Project---ASP.NET-API\DAL\obj\Debug\DAL.Migrations.initdb.resources
+F:\Final-Demo-Project---ASP.NET-API\DAL\obj\Debug\DAL.csproj.GenerateResource.cache
+F:\Final-Demo-Project---ASP.NET-API\DAL\obj\Debug\DAL.csproj.CoreCompileInputs.cache
+F:\Final-Demo-Project---ASP.NET-API\DAL\obj\Debug\DAL.dll
+F:\Final-Demo-Project---ASP.NET-API\DAL\obj\Debug\DAL.pdb
+F:\Final-Demo-Project---ASP.NET-API\DAL\bin\Debug\DAL.dll.config
+F:\Final-Demo-Project---ASP.NET-API\DAL\bin\Debug\DAL.dll
+F:\Final-Demo-Project---ASP.NET-API\DAL\bin\Debug\DAL.pdb
+F:\Final-Demo-Project---ASP.NET-API\DAL\bin\Debug\EntityFramework.dll
+F:\Final-Demo-Project---ASP.NET-API\DAL\bin\Debug\EntityFramework.SqlServer.dll
+F:\Final-Demo-Project---ASP.NET-API\DAL\bin\Debug\EntityFramework.xml
+F:\Final-Demo-Project---ASP.NET-API\DAL\bin\Debug\EntityFramework.SqlServer.xml
+F:\Final-Demo-Project---ASP.NET-API\DAL\obj\Debug\DAL.csproj.CopyComplete
+F:\Final-Demo-Project---ASP.NET-API\DAL\obj\Debug\DAL.Migrations.updatedb.resources
+F:\Final-Demo-Project---ASP.NET-API\DAL\obj\Debug\DAL.Migrations.likelist.resources
+F:\Final-Demo-Project---ASP.NET-API\DAL\obj\Debug\DAL.Migrations.likelistSolved.resources
+F:\Final-Demo-Project---ASP.NET-API\DAL\obj\Debug\DAL.Migrations.PropertyAndBiddingModelFix.resources
+F:\Final-Demo-Project---ASP.NET-API\DAL\obj\Debug\DAL.Migrations.BiddingIssueSolved.resources

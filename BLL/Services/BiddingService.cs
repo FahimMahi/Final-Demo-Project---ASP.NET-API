@@ -12,7 +12,7 @@ namespace BLL.Services
 {
     public class BiddingService
     {
-        public static void Create(BiddingDTO bid)
+        public static Bidding Create(BiddingDTO bid)
         {
 
             var cfg = new MapperConfiguration(c =>
@@ -21,8 +21,8 @@ namespace BLL.Services
             });
             var mapper = new Mapper(cfg);
             var mapped = mapper.Map<Bidding>(bid);
-            DataAccessFactory.BiddingData().Create(mapped);
-
+            var data=DataAccessFactory.BiddingData().Create(mapped);
+            return data;
         }
 
 

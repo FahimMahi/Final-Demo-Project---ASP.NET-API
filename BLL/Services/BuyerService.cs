@@ -73,5 +73,31 @@ namespace BLL.Services
             return mapped;
 
         }
+        public static List<LikedPropertyDTO> LikedProperty(string id)
+        {
+            var data = DataAccessFactory.LikedPropertyData().Read(id);
+            var cfg = new MapperConfiguration(c =>
+            {
+                c.CreateMap<LikedProperty, LikedPropertyDTO>();
+                c.CreateMap<Buyer, BuyerDTO>();
+                c.CreateMap<Property, PropertyDTO>();
+
+            });
+            var mapper = new Mapper(cfg);
+            var mapped = mapper.Map<List<LikedPropertyDTO>>(data);
+            return mapped;
+
+        }
+
+        public static void PropertyLiked(LikedPropertyDTO obj)
+        {
+            var cfg = new MapperConfiguration(c =>
+            {
+                c.CreateMap<LikedPropertyDTO, LikedProperty>();
+            });
+            var mapper = new Mapper(cfg);
+            var mapped = mapper.Map<LikedProperty>(obj);
+            DataAccessFactory.LikedPropertyData().Create(mapped);
+        }
     }
 }

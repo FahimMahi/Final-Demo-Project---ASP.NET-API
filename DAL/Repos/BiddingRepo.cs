@@ -12,9 +12,16 @@ namespace DAL.Repos
     {
         public Bidding Create(Bidding obj)
         {
-            db.Biddings.Add(obj);
-            db.SaveChanges();
-            return obj;
+            var propertyId = obj.PropertyId;
+            var exobj = db.Properties.Where(f => f.Id == propertyId && f.Type == "Bidding").FirstOrDefault();
+            if (exobj != null)
+            {
+                db.Biddings.Add(obj);
+                db.SaveChanges();
+                return obj;
+            }
+            else { return null; }
+ 
         }
 
         public List<Bidding> Delete(int id)
