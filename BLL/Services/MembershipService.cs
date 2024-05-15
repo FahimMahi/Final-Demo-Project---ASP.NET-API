@@ -35,13 +35,14 @@ namespace BLL.Services
             return mapped;
         }
         public static void Create(MembershipDTO obj)
-        {
+        { 
             var cfg = new MapperConfiguration(c =>
             {
                 c.CreateMap<MembershipDTO, Membership>();
             });
             var mapper = new Mapper(cfg);
             var mapped = mapper.Map<Membership>(obj);
+            mapped.CreatedAt = DateTime.Now;
             DataAccessFactory.MembershipData().Create(mapped);
         }
         public static void Update(MembershipDTO appdetail)
@@ -52,6 +53,7 @@ namespace BLL.Services
             });
             var mapper = new Mapper(cfg);
             var mapped = mapper.Map<Membership>(appdetail);
+            mapped.UpdatedAt = DateTime.Now;
             DataAccessFactory.MembershipData().Update(mapped);
         }
         public static bool Delete(int id)

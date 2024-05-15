@@ -43,6 +43,7 @@ namespace BLL.Services
             });
             var mapper = new Mapper(cfg);
             var mapped = mapper.Map<Feedback>(obj);
+            mapped.CreatedAt = DateTime.Now;
             DataAccessFactory.FeedbackData().Create(mapped);
         }
         public static void Update(FeedbackDTO appdetail)
@@ -53,6 +54,7 @@ namespace BLL.Services
             });
             var mapper = new Mapper(cfg);
             var mapped = mapper.Map<Feedback>(appdetail);
+            mapped.UpdatedAt = DateTime.Now;
             DataAccessFactory.FeedbackData().Update(mapped);
         }
         public static bool Delete(int id)

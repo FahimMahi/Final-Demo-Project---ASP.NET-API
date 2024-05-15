@@ -42,6 +42,7 @@ namespace BLL.Services
             });
             var mapper = new Mapper(cfg);
             var mapped = mapper.Map<SupportTicket>(obj);
+            mapped.CreatedAt = DateTime.Now;
             DataAccessFactory.SupportTicketData().Create(mapped);
         }
         public static void Update(SupportTicketDTO appdetail)
@@ -52,6 +53,7 @@ namespace BLL.Services
             });
             var mapper = new Mapper(cfg);
             var mapped = mapper.Map<SupportTicket>(appdetail);
+            mapped.UpdatedAt = DateTime.Now;
             DataAccessFactory.SupportTicketData().Update(mapped);
         }
         public static bool Delete(int id)

@@ -68,3 +68,17 @@ F:\New folder (2)\Final-Demo-Project---ASP.NET-API\BLL\bin\Debug\DAL.dll.config
 F:\New folder (2)\Final-Demo-Project---ASP.NET-API\BLL\bin\Debug\AutoMapper.xml
 F:\New folder (2)\Final-Demo-Project---ASP.NET-API\BLL\bin\Debug\EntityFramework.xml
 F:\New folder (2)\Final-Demo-Project---ASP.NET-API\BLL\obj\Debug\BLL.csproj.Up2Date
+D:\Spring 2024\Final-Demo-Project---ASP.NET-API\BLL\bin\Debug\BLL.dll
+D:\Spring 2024\Final-Demo-Project---ASP.NET-API\BLL\bin\Debug\BLL.pdb
+D:\Spring 2024\Final-Demo-Project---ASP.NET-API\BLL\bin\Debug\AutoMapper.dll
+D:\Spring 2024\Final-Demo-Project---ASP.NET-API\BLL\bin\Debug\DAL.dll
+D:\Spring 2024\Final-Demo-Project---ASP.NET-API\BLL\bin\Debug\EntityFramework.dll
+D:\Spring 2024\Final-Demo-Project---ASP.NET-API\BLL\bin\Debug\DAL.pdb
+D:\Spring 2024\Final-Demo-Project---ASP.NET-API\BLL\bin\Debug\DAL.dll.config
+D:\Spring 2024\Final-Demo-Project---ASP.NET-API\BLL\bin\Debug\AutoMapper.xml
+D:\Spring 2024\Final-Demo-Project---ASP.NET-API\BLL\bin\Debug\EntityFramework.xml
+D:\Spring 2024\Final-Demo-Project---ASP.NET-API\BLL\obj\Debug\BLL.csproj.AssemblyReference.cache
+D:\Spring 2024\Final-Demo-Project---ASP.NET-API\BLL\obj\Debug\BLL.csproj.CoreCompileInputs.cache
+D:\Spring 2024\Final-Demo-Project---ASP.NET-API\BLL\obj\Debug\BLL.csproj.Up2Date
+D:\Spring 2024\Final-Demo-Project---ASP.NET-API\BLL\obj\Debug\BLL.dll
+D:\Spring 2024\Final-Demo-Project---ASP.NET-API\BLL\obj\Debug\BLL.pdb
