@@ -49,8 +49,6 @@ D:\Semester\13) Spring 2024\Advanced .NET\Final-Demo-Project---ASP.NET-API\DAL\b
 D:\Semester\13) Spring 2024\Advanced .NET\Final-Demo-Project---ASP.NET-API\DAL\bin\Debug\EntityFramework.xml
 D:\Semester\13) Spring 2024\Advanced .NET\Final-Demo-Project---ASP.NET-API\DAL\bin\Debug\EntityFramework.SqlServer.xml
 D:\Semester\13) Spring 2024\Advanced .NET\Final-Demo-Project---ASP.NET-API\DAL\obj\Debug\DAL.csproj.AssemblyReference.cache
-D:\Semester\13) Spring 2024\Advanced .NET\Final-Demo-Project---ASP.NET-API\DAL\obj\Debug\DAL.Migrations.initdb.resources
-D:\Semester\13) Spring 2024\Advanced .NET\Final-Demo-Project---ASP.NET-API\DAL\obj\Debug\DAL.csproj.GenerateResource.cache
 D:\Semester\13) Spring 2024\Advanced .NET\Final-Demo-Project---ASP.NET-API\DAL\obj\Debug\DAL.csproj.CoreCompileInputs.cache
 D:\Semester\13) Spring 2024\Advanced .NET\Final-Demo-Project---ASP.NET-API\DAL\obj\Debug\DAL.csproj.Up2Date
 D:\Semester\13) Spring 2024\Advanced .NET\Final-Demo-Project---ASP.NET-API\DAL\obj\Debug\DAL.dll
@@ -69,3 +67,5 @@ F:\New folder (2)\Final-Demo-Project---ASP.NET-API\DAL\bin\Debug\EntityFramework
 F:\New folder (2)\Final-Demo-Project---ASP.NET-API\DAL\obj\Debug\DAL.csproj.Up2Date
 F:\New folder (2)\Final-Demo-Project---ASP.NET-API\DAL\obj\Debug\DAL.Migrations.All.resources
 F:\New folder (2)\Final-Demo-Project---ASP.NET-API\DAL\obj\Debug\DAL.csproj.GenerateResource.cache
+D:\Semester\13) Spring 2024\Advanced .NET\Final-Demo-Project---ASP.NET-API\DAL\obj\Debug\DAL.Migrations.All.resources
+D:\Semester\13) Spring 2024\Advanced .NET\Final-Demo-Project---ASP.NET-API\DAL\obj\Debug\DAL.csproj.GenerateResource.cache

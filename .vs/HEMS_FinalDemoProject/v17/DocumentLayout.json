@@ -1,69 +1,81 @@
 {
   "Version": 1,
-  "WorkspaceRootPath": "F:\\New folder (2)\\Final-Demo-Project---ASP.NET-API\\",
+  "WorkspaceRootPath": "D:\\Semester\\13) Spring 2024\\Advanced .NET\\Final-Demo-Project---ASP.NET-API\\",
   "Documents": [
     {
-      "AbsoluteMoniker": "D:0:0:{48029651-F187-4617-B9A2-85A86B2E63C5}|BLL\\BLL.csproj|f:\\new folder (2)\\final-demo-project---asp.net-api\\bll\\dtos\\paymentdto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{48029651-F187-4617-B9A2-85A86B2E63C5}|BLL\\BLL.csproj|solutionrelative:bll\\dtos\\paymentdto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{B5D4EA70-4046-4684-BC6D-E29F9A47A0D0}|DAL\\DAL.csproj|f:\\new folder (2)\\final-demo-project---asp.net-api\\dal\\models\\payment.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{B5D4EA70-4046-4684-BC6D-E29F9A47A0D0}|DAL\\DAL.csproj|solutionrelative:dal\\models\\payment.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{B78BF399-CA2A-489C-8B7B-D29E79A7D1A7}|HEMS_FinalDemoProject\\HEMS_FinalDemoProject.csproj|f:\\new folder (2)\\final-demo-project---asp.net-api\\hems_finaldemoproject\\controllers\\reviewcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{B78BF399-CA2A-489C-8B7B-D29E79A7D1A7}|HEMS_FinalDemoProject\\HEMS_FinalDemoProject.csproj|solutionrelative:hems_finaldemoproject\\controllers\\reviewcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{B78BF399-CA2A-489C-8B7B-D29E79A7D1A7}|HEMS_FinalDemoProject\\HEMS_FinalDemoProject.csproj|f:\\new folder (2)\\final-demo-project---asp.net-api\\hems_finaldemoproject\\controllers\\paymentcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{B78BF399-CA2A-489C-8B7B-D29E79A7D1A7}|HEMS_FinalDemoProject\\HEMS_FinalDemoProject.csproj|solutionrelative:hems_finaldemoproject\\controllers\\paymentcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{B5D4EA70-4046-4684-BC6D-E29F9A47A0D0}|DAL\\DAL.csproj|f:\\new folder (2)\\final-demo-project---asp.net-api\\dal\\migrations\\202405142250040_all.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{B5D4EA70-4046-4684-BC6D-E29F9A47A0D0}|DAL\\DAL.csproj|solutionrelative:dal\\migrations\\202405142250040_all.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{B5D4EA70-4046-4684-BC6D-E29F9A47A0D0}|DAL\\DAL.csproj|f:\\new folder (2)\\final-demo-project---asp.net-api\\dal\\migrations\\configuration.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{B5D4EA70-4046-4684-BC6D-E29F9A47A0D0}|DAL\\DAL.csproj|solutionrelative:dal\\migrations\\configuration.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{B5D4EA70-4046-4684-BC6D-E29F9A47A0D0}|DAL\\DAL.csproj|f:\\new folder (2)\\final-demo-project---asp.net-api\\dal\\models\\review.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{B5D4EA70-4046-4684-BC6D-E29F9A47A0D0}|DAL\\DAL.csproj|solutionrelative:dal\\models\\review.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{48029651-F187-4617-B9A2-85A86B2E63C5}|BLL\\BLL.csproj|f:\\new folder (2)\\final-demo-project---asp.net-api\\bll\\dtos\\propertybiddingdto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{48029651-F187-4617-B9A2-85A86B2E63C5}|BLL\\BLL.csproj|solutionrelative:bll\\dtos\\propertybiddingdto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{B5D4EA70-4046-4684-BC6D-E29F9A47A0D0}|DAL\\DAL.csproj|f:\\new folder (2)\\final-demo-project---asp.net-api\\dal\\dataaccessfactory.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{B5D4EA70-4046-4684-BC6D-E29F9A47A0D0}|DAL\\DAL.csproj|solutionrelative:dal\\dataaccessfactory.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{48029651-F187-4617-B9A2-85A86B2E63C5}|BLL\\BLL.csproj|f:\\new folder (2)\\final-demo-project---asp.net-api\\bll\\services\\reviewservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{48029651-F187-4617-B9A2-85A86B2E63C5}|BLL\\BLL.csproj|solutionrelative:bll\\services\\reviewservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{48029651-F187-4617-B9A2-85A86B2E63C5}|BLL\\BLL.csproj|f:\\new folder (2)\\final-demo-project---asp.net-api\\bll\\services\\paymentservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{48029651-F187-4617-B9A2-85A86B2E63C5}|BLL\\BLL.csproj|solutionrelative:bll\\services\\paymentservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{B78BF399-CA2A-489C-8B7B-D29E79A7D1A7}|HEMS_FinalDemoProject\\HEMS_FinalDemoProject.csproj|F:\\New folder (2)\\Final-Demo-Project---ASP.NET-API\\hems_finaldemoproject\\web.config||{FA3CD31E-987B-443A-9B81-186104E8DAC1}",
+      "AbsoluteMoniker": "D:0:0:{B78BF399-CA2A-489C-8B7B-D29E79A7D1A7}|HEMS_FinalDemoProject\\HEMS_FinalDemoProject.csproj|d:\\semester\\13) spring 2024\\advanced .net\\final-demo-project---asp.net-api\\hems_finaldemoproject\\web.config||{FA3CD31E-987B-443A-9B81-186104E8DAC1}",
       "RelativeMoniker": "D:0:0:{B78BF399-CA2A-489C-8B7B-D29E79A7D1A7}|HEMS_FinalDemoProject\\HEMS_FinalDemoProject.csproj|solutionrelative:hems_finaldemoproject\\web.config||{FA3CD31E-987B-443A-9B81-186104E8DAC1}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{B5D4EA70-4046-4684-BC6D-E29F9A47A0D0}|DAL\\DAL.csproj|F:\\New folder (2)\\Final-Demo-Project---ASP.NET-API\\dal\\app.config||{FA3CD31E-987B-443A-9B81-186104E8DAC1}",
+      "AbsoluteMoniker": "D:0:0:{B5D4EA70-4046-4684-BC6D-E29F9A47A0D0}|DAL\\DAL.csproj|d:\\semester\\13) spring 2024\\advanced .net\\final-demo-project---asp.net-api\\dal\\models\\token.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{B5D4EA70-4046-4684-BC6D-E29F9A47A0D0}|DAL\\DAL.csproj|solutionrelative:dal\\models\\token.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{B78BF399-CA2A-489C-8B7B-D29E79A7D1A7}|HEMS_FinalDemoProject\\HEMS_FinalDemoProject.csproj|d:\\semester\\13) spring 2024\\advanced .net\\final-demo-project---asp.net-api\\hems_finaldemoproject\\controllers\\usercontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{B78BF399-CA2A-489C-8B7B-D29E79A7D1A7}|HEMS_FinalDemoProject\\HEMS_FinalDemoProject.csproj|solutionrelative:hems_finaldemoproject\\controllers\\usercontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{48029651-F187-4617-B9A2-85A86B2E63C5}|BLL\\BLL.csproj|d:\\semester\\13) spring 2024\\advanced .net\\final-demo-project---asp.net-api\\bll\\dtos\\tokendto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{48029651-F187-4617-B9A2-85A86B2E63C5}|BLL\\BLL.csproj|solutionrelative:bll\\dtos\\tokendto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{B5D4EA70-4046-4684-BC6D-E29F9A47A0D0}|DAL\\DAL.csproj|d:\\semester\\13) spring 2024\\advanced .net\\final-demo-project---asp.net-api\\dal\\interfaces\\irepo.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{B5D4EA70-4046-4684-BC6D-E29F9A47A0D0}|DAL\\DAL.csproj|solutionrelative:dal\\interfaces\\irepo.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{B5D4EA70-4046-4684-BC6D-E29F9A47A0D0}|DAL\\DAL.csproj|d:\\semester\\13) spring 2024\\advanced .net\\final-demo-project---asp.net-api\\dal\\repos\\userrepo.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{B5D4EA70-4046-4684-BC6D-E29F9A47A0D0}|DAL\\DAL.csproj|solutionrelative:dal\\repos\\userrepo.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{B5D4EA70-4046-4684-BC6D-E29F9A47A0D0}|DAL\\DAL.csproj|D:\\Semester\\13) Spring 2024\\Advanced .NET\\Final-Demo-Project---ASP.NET-API\\dal\\dataaccessfactory.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{B5D4EA70-4046-4684-BC6D-E29F9A47A0D0}|DAL\\DAL.csproj|solutionrelative:dal\\dataaccessfactory.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{B78BF399-CA2A-489C-8B7B-D29E79A7D1A7}|HEMS_FinalDemoProject\\HEMS_FinalDemoProject.csproj|d:\\semester\\13) spring 2024\\advanced .net\\final-demo-project---asp.net-api\\hems_finaldemoproject\\controllers\\landlordcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{B78BF399-CA2A-489C-8B7B-D29E79A7D1A7}|HEMS_FinalDemoProject\\HEMS_FinalDemoProject.csproj|solutionrelative:hems_finaldemoproject\\controllers\\landlordcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{48029651-F187-4617-B9A2-85A86B2E63C5}|BLL\\BLL.csproj|d:\\semester\\13) spring 2024\\advanced .net\\final-demo-project---asp.net-api\\bll\\dtos\\paymentdto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{48029651-F187-4617-B9A2-85A86B2E63C5}|BLL\\BLL.csproj|solutionrelative:bll\\dtos\\paymentdto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{B5D4EA70-4046-4684-BC6D-E29F9A47A0D0}|DAL\\DAL.csproj|D:\\Semester\\13) Spring 2024\\Advanced .NET\\Final-Demo-Project---ASP.NET-API\\dal\\models\\payment.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{B5D4EA70-4046-4684-BC6D-E29F9A47A0D0}|DAL\\DAL.csproj|solutionrelative:dal\\models\\payment.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{B78BF399-CA2A-489C-8B7B-D29E79A7D1A7}|HEMS_FinalDemoProject\\HEMS_FinalDemoProject.csproj|D:\\Semester\\13) Spring 2024\\Advanced .NET\\Final-Demo-Project---ASP.NET-API\\hems_finaldemoproject\\controllers\\reviewcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{B78BF399-CA2A-489C-8B7B-D29E79A7D1A7}|HEMS_FinalDemoProject\\HEMS_FinalDemoProject.csproj|solutionrelative:hems_finaldemoproject\\controllers\\reviewcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{B78BF399-CA2A-489C-8B7B-D29E79A7D1A7}|HEMS_FinalDemoProject\\HEMS_FinalDemoProject.csproj|D:\\Semester\\13) Spring 2024\\Advanced .NET\\Final-Demo-Project---ASP.NET-API\\hems_finaldemoproject\\controllers\\paymentcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{B78BF399-CA2A-489C-8B7B-D29E79A7D1A7}|HEMS_FinalDemoProject\\HEMS_FinalDemoProject.csproj|solutionrelative:hems_finaldemoproject\\controllers\\paymentcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{B5D4EA70-4046-4684-BC6D-E29F9A47A0D0}|DAL\\DAL.csproj|D:\\Semester\\13) Spring 2024\\Advanced .NET\\Final-Demo-Project---ASP.NET-API\\dal\\models\\review.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{B5D4EA70-4046-4684-BC6D-E29F9A47A0D0}|DAL\\DAL.csproj|solutionrelative:dal\\models\\review.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{48029651-F187-4617-B9A2-85A86B2E63C5}|BLL\\BLL.csproj|D:\\Semester\\13) Spring 2024\\Advanced .NET\\Final-Demo-Project---ASP.NET-API\\bll\\dtos\\propertybiddingdto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{48029651-F187-4617-B9A2-85A86B2E63C5}|BLL\\BLL.csproj|solutionrelative:bll\\dtos\\propertybiddingdto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{48029651-F187-4617-B9A2-85A86B2E63C5}|BLL\\BLL.csproj|D:\\Semester\\13) Spring 2024\\Advanced .NET\\Final-Demo-Project---ASP.NET-API\\bll\\services\\reviewservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{48029651-F187-4617-B9A2-85A86B2E63C5}|BLL\\BLL.csproj|solutionrelative:bll\\services\\reviewservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{48029651-F187-4617-B9A2-85A86B2E63C5}|BLL\\BLL.csproj|D:\\Semester\\13) Spring 2024\\Advanced .NET\\Final-Demo-Project---ASP.NET-API\\bll\\services\\paymentservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{48029651-F187-4617-B9A2-85A86B2E63C5}|BLL\\BLL.csproj|solutionrelative:bll\\services\\paymentservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{B5D4EA70-4046-4684-BC6D-E29F9A47A0D0}|DAL\\DAL.csproj|D:\\Semester\\13) Spring 2024\\Advanced .NET\\Final-Demo-Project---ASP.NET-API\\dal\\app.config||{FA3CD31E-987B-443A-9B81-186104E8DAC1}",
       "RelativeMoniker": "D:0:0:{B5D4EA70-4046-4684-BC6D-E29F9A47A0D0}|DAL\\DAL.csproj|solutionrelative:dal\\app.config||{FA3CD31E-987B-443A-9B81-186104E8DAC1}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{B5D4EA70-4046-4684-BC6D-E29F9A47A0D0}|DAL\\DAL.csproj|F:\\New folder (2)\\Final-Demo-Project---ASP.NET-API\\dal\\hemscontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{B5D4EA70-4046-4684-BC6D-E29F9A47A0D0}|DAL\\DAL.csproj|solutionrelative:dal\\hemscontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{B5D4EA70-4046-4684-BC6D-E29F9A47A0D0}|DAL\\DAL.csproj|F:\\New folder (2)\\Final-Demo-Project---ASP.NET-API\\dal\\repos\\feedbackrepo.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "AbsoluteMoniker": "D:0:0:{B5D4EA70-4046-4684-BC6D-E29F9A47A0D0}|DAL\\DAL.csproj|D:\\Semester\\13) Spring 2024\\Advanced .NET\\Final-Demo-Project---ASP.NET-API\\dal\\repos\\feedbackrepo.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{B5D4EA70-4046-4684-BC6D-E29F9A47A0D0}|DAL\\DAL.csproj|solutionrelative:dal\\repos\\feedbackrepo.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{B5D4EA70-4046-4684-BC6D-E29F9A47A0D0}|DAL\\DAL.csproj|F:\\New folder (2)\\Final-Demo-Project---ASP.NET-API\\dal\\repos\\supportticketrepo.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "AbsoluteMoniker": "D:0:0:{B5D4EA70-4046-4684-BC6D-E29F9A47A0D0}|DAL\\DAL.csproj|D:\\Semester\\13) Spring 2024\\Advanced .NET\\Final-Demo-Project---ASP.NET-API\\dal\\repos\\supportticketrepo.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{B5D4EA70-4046-4684-BC6D-E29F9A47A0D0}|DAL\\DAL.csproj|solutionrelative:dal\\repos\\supportticketrepo.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     }
   ],
@@ -74,161 +86,97 @@
       "DocumentGroups": [
         {
           "DockedWidth": 200,
-          "SelectedChildIndex": 7,
+          "SelectedChildIndex": 2,
           "Children": [
             {
               "$type": "Bookmark",
-              "Name": "ST:0:0:{cce594b6-0c39-4442-ba28-10c64ac7e89f}"
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 4,
-              "Title": "202405142250040_All.cs",
-              "DocumentMoniker": "F:\\New folder (2)\\Final-Demo-Project---ASP.NET-API\\DAL\\Migrations\\202405142250040_All.cs",
-              "RelativeDocumentMoniker": "DAL\\Migrations\\202405142250040_All.cs",
-              "ToolTip": "F:\\New folder (2)\\Final-Demo-Project---ASP.NET-API\\DAL\\Migrations\\202405142250040_All.cs",
-              "RelativeToolTip": "DAL\\Migrations\\202405142250040_All.cs",
-              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-05-14T22:50:10.406Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 5,
-              "Title": "Configuration.cs",
-              "DocumentMoniker": "F:\\New folder (2)\\Final-Demo-Project---ASP.NET-API\\DAL\\Migrations\\Configuration.cs",
-              "RelativeDocumentMoniker": "DAL\\Migrations\\Configuration.cs",
-              "ToolTip": "F:\\New folder (2)\\Final-Demo-Project---ASP.NET-API\\DAL\\Migrations\\Configuration.cs",
-              "RelativeToolTip": "DAL\\Migrations\\Configuration.cs",
-              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-05-14T22:49:33.233Z",
-              "EditorCaption": ""
+              "Name": "ST:0:0:{74946827-37a0-11d2-a273-00c04f8ef4ff}"
             },
             {
               "$type": "Document",
               "DocumentIndex": 1,
-              "Title": "Payment.cs",
-              "DocumentMoniker": "F:\\New folder (2)\\Final-Demo-Project---ASP.NET-API\\DAL\\Models\\Payment.cs",
-              "RelativeDocumentMoniker": "DAL\\Models\\Payment.cs",
-              "ToolTip": "F:\\New folder (2)\\Final-Demo-Project---ASP.NET-API\\DAL\\Models\\Payment.cs",
-              "RelativeToolTip": "DAL\\Models\\Payment.cs",
-              "ViewState": "AQIAAAgAAAAAAAAAAAAAACkAAAASAAAA",
+              "Title": "Token.cs",
+              "DocumentMoniker": "D:\\Semester\\13) Spring 2024\\Advanced .NET\\Final-Demo-Project---ASP.NET-API\\DAL\\Models\\Token.cs",
+              "RelativeDocumentMoniker": "DAL\\Models\\Token.cs",
+              "ToolTip": "D:\\Semester\\13) Spring 2024\\Advanced .NET\\Final-Demo-Project---ASP.NET-API\\DAL\\Models\\Token.cs",
+              "RelativeToolTip": "DAL\\Models\\Token.cs",
+              "ViewState": "AQIAAAsAAAAAAAAAAAAQwBoAAAAAAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-05-14T22:48:15.475Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 2,
-              "Title": "ReviewController.cs",
-              "DocumentMoniker": "F:\\New folder (2)\\Final-Demo-Project---ASP.NET-API\\HEMS_FinalDemoProject\\Controllers\\ReviewController.cs",
-              "RelativeDocumentMoniker": "HEMS_FinalDemoProject\\Controllers\\ReviewController.cs",
-              "ToolTip": "F:\\New folder (2)\\Final-Demo-Project---ASP.NET-API\\HEMS_FinalDemoProject\\Controllers\\ReviewController.cs",
-              "RelativeToolTip": "HEMS_FinalDemoProject\\Controllers\\ReviewController.cs",
-              "ViewState": "AQIAABIAAAAAAAAAAAAlwCAAAAA2AAAA",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-05-14T22:48:14.42Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 6,
-              "Title": "Review.cs",
-              "DocumentMoniker": "F:\\New folder (2)\\Final-Demo-Project---ASP.NET-API\\DAL\\Models\\Review.cs",
-              "RelativeDocumentMoniker": "DAL\\Models\\Review.cs",
-              "ToolTip": "F:\\New folder (2)\\Final-Demo-Project---ASP.NET-API\\DAL\\Models\\Review.cs",
-              "RelativeToolTip": "DAL\\Models\\Review.cs",
-              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAKAAAA",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-05-14T22:47:57.151Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 3,
-              "Title": "PaymentController.cs",
-              "DocumentMoniker": "F:\\New folder (2)\\Final-Demo-Project---ASP.NET-API\\HEMS_FinalDemoProject\\Controllers\\PaymentController.cs",
-              "RelativeDocumentMoniker": "HEMS_FinalDemoProject\\Controllers\\PaymentController.cs",
-              "ToolTip": "F:\\New folder (2)\\Final-Demo-Project---ASP.NET-API\\HEMS_FinalDemoProject\\Controllers\\PaymentController.cs",
-              "RelativeToolTip": "HEMS_FinalDemoProject\\Controllers\\PaymentController.cs",
-              "ViewState": "AQIAAA8AAAAAAAAAAIA3wB8AAAAhAAAA",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-05-14T22:47:52.969Z",
+              "WhenOpened": "2024-05-14T23:49:31.867Z",
               "EditorCaption": ""
             },
             {
               "$type": "Document",
               "DocumentIndex": 0,
-              "Title": "PaymentDTO.cs",
-              "DocumentMoniker": "F:\\New folder (2)\\Final-Demo-Project---ASP.NET-API\\BLL\\DTOs\\PaymentDTO.cs",
-              "RelativeDocumentMoniker": "BLL\\DTOs\\PaymentDTO.cs",
-              "ToolTip": "F:\\New folder (2)\\Final-Demo-Project---ASP.NET-API\\BLL\\DTOs\\PaymentDTO.cs",
-              "RelativeToolTip": "BLL\\DTOs\\PaymentDTO.cs",
-              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-05-14T22:47:50.537Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 7,
-              "Title": "PropertyBiddingDTO.cs",
-              "DocumentMoniker": "F:\\New folder (2)\\Final-Demo-Project---ASP.NET-API\\BLL\\DTOs\\PropertyBiddingDTO.cs",
-              "RelativeDocumentMoniker": "BLL\\DTOs\\PropertyBiddingDTO.cs",
-              "ToolTip": "F:\\New folder (2)\\Final-Demo-Project---ASP.NET-API\\BLL\\DTOs\\PropertyBiddingDTO.cs",
-              "RelativeToolTip": "BLL\\DTOs\\PropertyBiddingDTO.cs",
-              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-05-14T22:47:48.977Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 9,
-              "Title": "ReviewService.cs",
-              "DocumentMoniker": "F:\\New folder (2)\\Final-Demo-Project---ASP.NET-API\\BLL\\Services\\ReviewService.cs",
-              "RelativeDocumentMoniker": "BLL\\Services\\ReviewService.cs",
-              "ToolTip": "F:\\New folder (2)\\Final-Demo-Project---ASP.NET-API\\BLL\\Services\\ReviewService.cs",
-              "RelativeToolTip": "BLL\\Services\\ReviewService.cs",
-              "ViewState": "AQIAACwAAAAAAAAAAAAlwDoAAAAlAAAA",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-05-14T22:47:35.649Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 10,
-              "Title": "PaymentService.cs",
-              "DocumentMoniker": "F:\\New folder (2)\\Final-Demo-Project---ASP.NET-API\\BLL\\Services\\PaymentService.cs",
-              "RelativeDocumentMoniker": "BLL\\Services\\PaymentService.cs",
-              "ToolTip": "F:\\New folder (2)\\Final-Demo-Project---ASP.NET-API\\BLL\\Services\\PaymentService.cs",
-              "RelativeToolTip": "BLL\\Services\\PaymentService.cs",
-              "ViewState": "AQIAAA4AAAAAAAAAAIAzwB0AAAANAAAA",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-05-14T22:47:29.987Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 12,
-              "Title": "App.config",
-              "DocumentMoniker": "F:\\New folder (2)\\Final-Demo-Project---ASP.NET-API\\DAL\\App.config",
-              "RelativeDocumentMoniker": "DAL\\App.config",
-              "ToolTip": "F:\\New folder (2)\\Final-Demo-Project---ASP.NET-API\\DAL\\App.config",
-              "RelativeToolTip": "DAL\\App.config",
-              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Title": "Web.config",
+              "DocumentMoniker": "D:\\Semester\\13) Spring 2024\\Advanced .NET\\Final-Demo-Project---ASP.NET-API\\HEMS_FinalDemoProject\\Web.config",
+              "RelativeDocumentMoniker": "HEMS_FinalDemoProject\\Web.config",
+              "ToolTip": "D:\\Semester\\13) Spring 2024\\Advanced .NET\\Final-Demo-Project---ASP.NET-API\\HEMS_FinalDemoProject\\Web.config",
+              "RelativeToolTip": "HEMS_FinalDemoProject\\Web.config",
+              "ViewState": "AQIAACQAAAAAAAAAAAAAAAAAAAAAAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000601|",
-              "WhenOpened": "2024-05-14T22:33:55.818Z"
+              "WhenOpened": "2024-05-14T23:48:56.58Z",
+              "EditorCaption": ""
             },
             {
               "$type": "Document",
-              "DocumentIndex": 8,
+              "DocumentIndex": 2,
+              "Title": "UserController.cs",
+              "DocumentMoniker": "D:\\Semester\\13) Spring 2024\\Advanced .NET\\Final-Demo-Project---ASP.NET-API\\HEMS_FinalDemoProject\\Controllers\\UserController.cs",
+              "RelativeDocumentMoniker": "HEMS_FinalDemoProject\\Controllers\\UserController.cs",
+              "ToolTip": "D:\\Semester\\13) Spring 2024\\Advanced .NET\\Final-Demo-Project---ASP.NET-API\\HEMS_FinalDemoProject\\Controllers\\UserController.cs",
+              "RelativeToolTip": "HEMS_FinalDemoProject\\Controllers\\UserController.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-05-14T23:48:55.323Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "TokenDTO.cs",
+              "DocumentMoniker": "D:\\Semester\\13) Spring 2024\\Advanced .NET\\Final-Demo-Project---ASP.NET-API\\BLL\\DTOs\\TokenDTO.cs",
+              "RelativeDocumentMoniker": "BLL\\DTOs\\TokenDTO.cs",
+              "ToolTip": "D:\\Semester\\13) Spring 2024\\Advanced .NET\\Final-Demo-Project---ASP.NET-API\\BLL\\DTOs\\TokenDTO.cs",
+              "RelativeToolTip": "BLL\\DTOs\\TokenDTO.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-05-14T23:48:49.53Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "IRepo.cs",
+              "DocumentMoniker": "D:\\Semester\\13) Spring 2024\\Advanced .NET\\Final-Demo-Project---ASP.NET-API\\DAL\\Interfaces\\IRepo.cs",
+              "RelativeDocumentMoniker": "DAL\\Interfaces\\IRepo.cs",
+              "ToolTip": "D:\\Semester\\13) Spring 2024\\Advanced .NET\\Final-Demo-Project---ASP.NET-API\\DAL\\Interfaces\\IRepo.cs",
+              "RelativeToolTip": "DAL\\Interfaces\\IRepo.cs",
+              "ViewState": "AQIAAAUAAAAAAAAAAAAAABIAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-05-14T23:45:48.254Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "UserRepo.cs",
+              "DocumentMoniker": "D:\\Semester\\13) Spring 2024\\Advanced .NET\\Final-Demo-Project---ASP.NET-API\\DAL\\Repos\\UserRepo.cs",
+              "RelativeDocumentMoniker": "DAL\\Repos\\UserRepo.cs",
+              "ToolTip": "D:\\Semester\\13) Spring 2024\\Advanced .NET\\Final-Demo-Project---ASP.NET-API\\DAL\\Repos\\UserRepo.cs",
+              "RelativeToolTip": "DAL\\Repos\\UserRepo.cs",
+              "ViewState": "AQIAABAAAAAAAAAAAAAgwCYAAAANAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-05-14T23:35:50.003Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
               "Title": "DataAccessFactory.cs",
-              "DocumentMoniker": "F:\\New folder (2)\\Final-Demo-Project---ASP.NET-API\\DAL\\DataAccessFactory.cs",
+              "DocumentMoniker": "D:\\Semester\\13) Spring 2024\\Advanced .NET\\Final-Demo-Project---ASP.NET-API\\DAL\\DataAccessFactory.cs",
               "RelativeDocumentMoniker": "DAL\\DataAccessFactory.cs",
-              "ToolTip": "F:\\New folder (2)\\Final-Demo-Project---ASP.NET-API\\DAL\\DataAccessFactory.cs",
+              "ToolTip": "D:\\Semester\\13) Spring 2024\\Advanced .NET\\Final-Demo-Project---ASP.NET-API\\DAL\\DataAccessFactory.cs",
               "RelativeToolTip": "DAL\\DataAccessFactory.cs",
               "ViewState": "AQIAACMAAAAAAAAAAAAiwDIAAAAAAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
@@ -237,52 +185,159 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 13,
-              "Title": "HEMSContext.cs",
-              "DocumentMoniker": "F:\\New folder (2)\\Final-Demo-Project---ASP.NET-API\\DAL\\HEMSContext.cs",
-              "RelativeDocumentMoniker": "DAL\\HEMSContext.cs",
-              "ToolTip": "F:\\New folder (2)\\Final-Demo-Project---ASP.NET-API\\DAL\\HEMSContext.cs",
-              "RelativeToolTip": "DAL\\HEMSContext.cs",
-              "ViewState": "AQIAAA0AAAAAAAAAAAA8wBcAAAAIAAAA",
+              "DocumentIndex": 7,
+              "Title": "LandlordController.cs",
+              "DocumentMoniker": "D:\\Semester\\13) Spring 2024\\Advanced .NET\\Final-Demo-Project---ASP.NET-API\\HEMS_FinalDemoProject\\Controllers\\LandlordController.cs",
+              "RelativeDocumentMoniker": "HEMS_FinalDemoProject\\Controllers\\LandlordController.cs",
+              "ToolTip": "D:\\Semester\\13) Spring 2024\\Advanced .NET\\Final-Demo-Project---ASP.NET-API\\HEMS_FinalDemoProject\\Controllers\\LandlordController.cs",
+              "RelativeToolTip": "HEMS_FinalDemoProject\\Controllers\\LandlordController.cs",
+              "ViewState": "AQIAAAsAAAAAAAAAAAAxwAQAAAASAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-04-29T05:18:02.885Z"
+              "WhenOpened": "2024-05-14T23:20:42.446Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 9,
+              "Title": "Payment.cs",
+              "DocumentMoniker": "D:\\Semester\\13) Spring 2024\\Advanced .NET\\Final-Demo-Project---ASP.NET-API\\DAL\\Models\\Payment.cs",
+              "RelativeDocumentMoniker": "DAL\\Models\\Payment.cs",
+              "ToolTip": "D:\\Semester\\13) Spring 2024\\Advanced .NET\\Final-Demo-Project---ASP.NET-API\\DAL\\Models\\Payment.cs",
+              "RelativeToolTip": "DAL\\Models\\Payment.cs",
+              "ViewState": "AQIAAAgAAAAAAAAAAAAAACkAAAASAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-05-14T22:48:15.475Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 8,
+              "Title": "PaymentDTO.cs",
+              "DocumentMoniker": "D:\\Semester\\13) Spring 2024\\Advanced .NET\\Final-Demo-Project---ASP.NET-API\\BLL\\DTOs\\PaymentDTO.cs",
+              "RelativeDocumentMoniker": "BLL\\DTOs\\PaymentDTO.cs",
+              "ToolTip": "D:\\Semester\\13) Spring 2024\\Advanced .NET\\Final-Demo-Project---ASP.NET-API\\BLL\\DTOs\\PaymentDTO.cs",
+              "RelativeToolTip": "BLL\\DTOs\\PaymentDTO.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-05-14T22:47:50.537Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 10,
+              "Title": "ReviewController.cs",
+              "DocumentMoniker": "D:\\Semester\\13) Spring 2024\\Advanced .NET\\Final-Demo-Project---ASP.NET-API\\HEMS_FinalDemoProject\\Controllers\\ReviewController.cs",
+              "RelativeDocumentMoniker": "HEMS_FinalDemoProject\\Controllers\\ReviewController.cs",
+              "ToolTip": "D:\\Semester\\13) Spring 2024\\Advanced .NET\\Final-Demo-Project---ASP.NET-API\\HEMS_FinalDemoProject\\Controllers\\ReviewController.cs",
+              "RelativeToolTip": "HEMS_FinalDemoProject\\Controllers\\ReviewController.cs",
+              "ViewState": "AQIAABIAAAAAAAAAAAAlwCAAAAA2AAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-05-14T22:48:14.42Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 12,
+              "Title": "Review.cs",
+              "DocumentMoniker": "D:\\Semester\\13) Spring 2024\\Advanced .NET\\Final-Demo-Project---ASP.NET-API\\DAL\\Models\\Review.cs",
+              "RelativeDocumentMoniker": "DAL\\Models\\Review.cs",
+              "ToolTip": "D:\\Semester\\13) Spring 2024\\Advanced .NET\\Final-Demo-Project---ASP.NET-API\\DAL\\Models\\Review.cs",
+              "RelativeToolTip": "DAL\\Models\\Review.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAKAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-05-14T22:47:57.151Z",
+              "EditorCaption": ""
             },
             {
               "$type": "Document",
               "DocumentIndex": 11,
-              "Title": "Web.config",
-              "DocumentMoniker": "F:\\New folder (2)\\Final-Demo-Project---ASP.NET-API\\HEMS_FinalDemoProject\\Web.config",
-              "RelativeDocumentMoniker": "HEMS_FinalDemoProject\\Web.config",
-              "ToolTip": "F:\\New folder (2)\\Final-Demo-Project---ASP.NET-API\\HEMS_FinalDemoProject\\Web.config",
-              "RelativeToolTip": "HEMS_FinalDemoProject\\Web.config",
-              "ViewState": "AQIAACcAAAAAAAAAAAAwwDwAAAA/AAAA",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000601|",
-              "WhenOpened": "2024-05-14T22:07:37.983Z",
+              "Title": "PaymentController.cs",
+              "DocumentMoniker": "D:\\Semester\\13) Spring 2024\\Advanced .NET\\Final-Demo-Project---ASP.NET-API\\HEMS_FinalDemoProject\\Controllers\\PaymentController.cs",
+              "RelativeDocumentMoniker": "HEMS_FinalDemoProject\\Controllers\\PaymentController.cs",
+              "ToolTip": "D:\\Semester\\13) Spring 2024\\Advanced .NET\\Final-Demo-Project---ASP.NET-API\\HEMS_FinalDemoProject\\Controllers\\PaymentController.cs",
+              "RelativeToolTip": "HEMS_FinalDemoProject\\Controllers\\PaymentController.cs",
+              "ViewState": "AQIAAA8AAAAAAAAAAIA3wB8AAAAhAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-05-14T22:47:52.969Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 13,
+              "Title": "PropertyBiddingDTO.cs",
+              "DocumentMoniker": "D:\\Semester\\13) Spring 2024\\Advanced .NET\\Final-Demo-Project---ASP.NET-API\\BLL\\DTOs\\PropertyBiddingDTO.cs",
+              "RelativeDocumentMoniker": "BLL\\DTOs\\PropertyBiddingDTO.cs",
+              "ToolTip": "D:\\Semester\\13) Spring 2024\\Advanced .NET\\Final-Demo-Project---ASP.NET-API\\BLL\\DTOs\\PropertyBiddingDTO.cs",
+              "RelativeToolTip": "BLL\\DTOs\\PropertyBiddingDTO.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-05-14T22:47:48.977Z",
               "EditorCaption": ""
             },
             {
               "$type": "Document",
               "DocumentIndex": 14,
-              "Title": "FeedbackRepo.cs",
-              "DocumentMoniker": "F:\\New folder (2)\\Final-Demo-Project---ASP.NET-API\\DAL\\Repos\\FeedbackRepo.cs",
-              "RelativeDocumentMoniker": "DAL\\Repos\\FeedbackRepo.cs",
-              "ToolTip": "F:\\New folder (2)\\Final-Demo-Project---ASP.NET-API\\DAL\\Repos\\FeedbackRepo.cs",
-              "RelativeToolTip": "DAL\\Repos\\FeedbackRepo.cs",
-              "ViewState": "AQIAAAMAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Title": "ReviewService.cs",
+              "DocumentMoniker": "D:\\Semester\\13) Spring 2024\\Advanced .NET\\Final-Demo-Project---ASP.NET-API\\BLL\\Services\\ReviewService.cs",
+              "RelativeDocumentMoniker": "BLL\\Services\\ReviewService.cs",
+              "ToolTip": "D:\\Semester\\13) Spring 2024\\Advanced .NET\\Final-Demo-Project---ASP.NET-API\\BLL\\Services\\ReviewService.cs",
+              "RelativeToolTip": "BLL\\Services\\ReviewService.cs",
+              "ViewState": "AQIAACwAAAAAAAAAAAAlwDoAAAAlAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-05-14T22:08:23.687Z"
+              "WhenOpened": "2024-05-14T22:47:35.649Z",
+              "EditorCaption": ""
             },
             {
               "$type": "Document",
               "DocumentIndex": 15,
+              "Title": "PaymentService.cs",
+              "DocumentMoniker": "D:\\Semester\\13) Spring 2024\\Advanced .NET\\Final-Demo-Project---ASP.NET-API\\BLL\\Services\\PaymentService.cs",
+              "RelativeDocumentMoniker": "BLL\\Services\\PaymentService.cs",
+              "ToolTip": "D:\\Semester\\13) Spring 2024\\Advanced .NET\\Final-Demo-Project---ASP.NET-API\\BLL\\Services\\PaymentService.cs",
+              "RelativeToolTip": "BLL\\Services\\PaymentService.cs",
+              "ViewState": "AQIAAA4AAAAAAAAAAIAzwB0AAAANAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-05-14T22:47:29.987Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 16,
+              "Title": "App.config",
+              "DocumentMoniker": "D:\\Semester\\13) Spring 2024\\Advanced .NET\\Final-Demo-Project---ASP.NET-API\\DAL\\App.config",
+              "RelativeDocumentMoniker": "DAL\\App.config",
+              "ToolTip": "D:\\Semester\\13) Spring 2024\\Advanced .NET\\Final-Demo-Project---ASP.NET-API\\DAL\\App.config",
+              "RelativeToolTip": "DAL\\App.config",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000601|",
+              "WhenOpened": "2024-05-14T22:33:55.818Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 17,
+              "Title": "FeedbackRepo.cs",
+              "DocumentMoniker": "D:\\Semester\\13) Spring 2024\\Advanced .NET\\Final-Demo-Project---ASP.NET-API\\DAL\\Repos\\FeedbackRepo.cs",
+              "RelativeDocumentMoniker": "DAL\\Repos\\FeedbackRepo.cs",
+              "ToolTip": "D:\\Semester\\13) Spring 2024\\Advanced .NET\\Final-Demo-Project---ASP.NET-API\\DAL\\Repos\\FeedbackRepo.cs",
+              "RelativeToolTip": "DAL\\Repos\\FeedbackRepo.cs",
+              "ViewState": "AQIAAAMAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-05-14T22:08:23.687Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 18,
               "Title": "SupportTicketRepo.cs",
-              "DocumentMoniker": "F:\\New folder (2)\\Final-Demo-Project---ASP.NET-API\\DAL\\Repos\\SupportTicketRepo.cs",
+              "DocumentMoniker": "D:\\Semester\\13) Spring 2024\\Advanced .NET\\Final-Demo-Project---ASP.NET-API\\DAL\\Repos\\SupportTicketRepo.cs",
               "RelativeDocumentMoniker": "DAL\\Repos\\SupportTicketRepo.cs",
-              "ToolTip": "F:\\New folder (2)\\Final-Demo-Project---ASP.NET-API\\DAL\\Repos\\SupportTicketRepo.cs",
+              "ToolTip": "D:\\Semester\\13) Spring 2024\\Advanced .NET\\Final-Demo-Project---ASP.NET-API\\DAL\\Repos\\SupportTicketRepo.cs",
               "RelativeToolTip": "DAL\\Repos\\SupportTicketRepo.cs",
               "ViewState": "AQIAAAsAAAAAAAAAAAAQwAAAAAAAAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-05-14T22:08:19.317Z"
+              "WhenOpened": "2024-05-14T22:08:19.317Z",
+              "EditorCaption": ""
             }
           ]
         }
