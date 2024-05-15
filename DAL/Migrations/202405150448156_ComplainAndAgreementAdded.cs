@@ -3,29 +3,43 @@
     using System;
     using System.Data.Entity.Migrations;
     
-    public partial class AllDone : DbMigration
+    public partial class ComplainAndAgreementAdded : DbMigration
     {
         public override void Up()
         {
             CreateTable(
-                "dbo.Biddings",
+                "dbo.Agreements",
                 c => new
                     {
                         Id = c.Int(nullable: false, identity: true),
-                        BiddingAmount = c.Int(nullable: false),
-                        TimeDuration = c.DateTime(nullable: false),
+                        Desc = c.String(),
+                        DateTime = c.DateTime(nullable: false),
+                        BuyerId = c.Int(nullable: false),
+                        LandlordId = c.Int(nullable: false),
                         PropertyId = c.Int(nullable: false),
-                        BidderId = c.Int(nullable: false),
-                        BuyerID = c.Int(nullable: false),
                     })
                 .PrimaryKey(t => t.Id)
-                .ForeignKey("dbo.Buyers", t => t.BidderId, cascadeDelete: true)
+                .ForeignKey("dbo.Buyers", t => t.BuyerId, cascadeDelete: true)
+                .ForeignKey("dbo.Landlords", t => t.LandlordId, cascadeDelete: true)
                 .ForeignKey("dbo.Properties", t => t.PropertyId, cascadeDelete: true)
-                .Index(t => t.PropertyId)
-                .Index(t => t.BidderId);
+                .Index(t => t.BuyerId)
+                .Index(t => t.LandlordId)
+                .Index(t => t.PropertyId);
             
             CreateTable(
                 "dbo.Buyers",
+                c => new
+                    {
+                        id = c.Int(nullable: false, identity: true),
+                        name = c.String(nullable: false),
+                        phone = c.String(nullable: false),
+                        address = c.String(nullable: false),
+                        userid = c.Int(nullable: false),
+                    })
+                .PrimaryKey(t => t.id);
+            
+            CreateTable(
+                "dbo.Landlords",
                 c => new
                     {
                         id = c.Int(nullable: false, identity: true),
@@ -54,16 +68,34 @@
                 .Index(t => t.LandLordId);
             
             CreateTable(
-                "dbo.Landlords",
+                "dbo.Biddings",
                 c => new
                     {
-                        id = c.Int(nullable: false, identity: true),
-                        name = c.String(nullable: false),
-                        phone = c.String(nullable: false),
-                        address = c.String(nullable: false),
-                        userid = c.Int(nullable: false),
+                        Id = c.Int(nullable: false, identity: true),
+                        BiddingAmount = c.Int(nullable: false),
+                        TimeDuration = c.DateTime(nullable: false),
+                        PropertyId = c.Int(nullable: false),
+                        BidderId = c.Int(nullable: false),
+                        BuyerID = c.Int(nullable: false),
                     })
-                .PrimaryKey(t => t.id);
+                .PrimaryKey(t => t.Id)
+                .ForeignKey("dbo.Buyers", t => t.BidderId, cascadeDelete: true)
+                .ForeignKey("dbo.Properties", t => t.PropertyId, cascadeDelete: true)
+                .Index(t => t.PropertyId)
+                .Index(t => t.BidderId);
+            
+            CreateTable(
+                "dbo.Complains",
+                c => new
+                    {
+                        Id = c.Int(nullable: false, identity: true),
+                        Desc = c.String(),
+                        DateTime = c.DateTime(nullable: false),
+                        BuyerId = c.Int(nullable: false),
+                    })
+                .PrimaryKey(t => t.Id)
+                .ForeignKey("dbo.Buyers", t => t.BuyerId, cascadeDelete: true)
+                .Index(t => t.BuyerId);
             
             CreateTable(
                 "dbo.Feedbacks",
@@ -202,9 +234,13 @@
             DropForeignKey("dbo.Payments", "PropertyId", "dbo.Properties");
             DropForeignKey("dbo.Memberships", "UserId", "dbo.Users");
             DropForeignKey("dbo.Feedbacks", "UserId", "dbo.Users");
-            DropForeignKey("dbo.Biddings", "PropertyId", "dbo.Properties");
+            DropForeignKey("dbo.Complains", "BuyerId", "dbo.Buyers");
+            DropForeignKey("dbo.Agreements", "PropertyId", "dbo.Properties");
             DropForeignKey("dbo.Properties", "LandLordId", "dbo.Landlords");
+            DropForeignKey("dbo.Biddings", "PropertyId", "dbo.Properties");
             DropForeignKey("dbo.Biddings", "BidderId", "dbo.Buyers");
+            DropForeignKey("dbo.Agreements", "LandlordId", "dbo.Landlords");
+            DropForeignKey("dbo.Agreements", "BuyerId", "dbo.Buyers");
             DropIndex("dbo.Tokens", new[] { "userid" });
             DropIndex("dbo.SupportTickets", new[] { "UserId" });
             DropIndex("dbo.Reviews", new[] { "PropertyId" });
@@ -213,9 +249,13 @@
             DropIndex("dbo.Payments", new[] { "UserId" });
             DropIndex("dbo.Memberships", new[] { "UserId" });
             DropIndex("dbo.Feedbacks", new[] { "UserId" });
-            DropIndex("dbo.Properties", new[] { "LandLordId" });
+            DropIndex("dbo.Complains", new[] { "BuyerId" });
             DropIndex("dbo.Biddings", new[] { "BidderId" });
             DropIndex("dbo.Biddings", new[] { "PropertyId" });
+            DropIndex("dbo.Properties", new[] { "LandLordId" });
+            DropIndex("dbo.Agreements", new[] { "PropertyId" });
+            DropIndex("dbo.Agreements", new[] { "LandlordId" });
+            DropIndex("dbo.Agreements", new[] { "BuyerId" });
             DropTable("dbo.Tokens");
             DropTable("dbo.SupportTickets");
             DropTable("dbo.Reviews");
@@ -224,10 +264,12 @@
             DropTable("dbo.Managements");
             DropTable("dbo.Users");
             DropTable("dbo.Feedbacks");
-            DropTable("dbo.Landlords");
-            DropTable("dbo.Properties");
-            DropTable("dbo.Buyers");
+            DropTable("dbo.Complains");
             DropTable("dbo.Biddings");
+            DropTable("dbo.Properties");
+            DropTable("dbo.Landlords");
+            DropTable("dbo.Buyers");
+            DropTable("dbo.Agreements");
         }
     }
 }

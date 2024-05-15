@@ -1,129 +1,136 @@
 {
   "Version": 1,
-  "WorkspaceRootPath": "D:\\Spring 2024\\Final-Demo-Project---ASP.NET-API\\",
+  "WorkspaceRootPath": "H:\\HEMS--Final-Project--ASP.NET--Web-API\\",
   "Documents": [
     {
-      "AbsoluteMoniker": "D:0:0:{48029651-F187-4617-B9A2-85A86B2E63C5}|BLL\\BLL.csproj|D:\\Spring 2024\\Final-Demo-Project---ASP.NET-API\\bll\\services\\supportticketservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{48029651-F187-4617-B9A2-85A86B2E63C5}|BLL\\BLL.csproj|solutionrelative:bll\\services\\supportticketservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+      "AbsoluteMoniker": "D:0:0:{B5D4EA70-4046-4684-BC6D-E29F9A47A0D0}|DAL\\DAL.csproj|h:\\hems--final-project--asp.net--web-api\\dal\\migrations\\202405150448156_complainandagreementadded.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{B5D4EA70-4046-4684-BC6D-E29F9A47A0D0}|DAL\\DAL.csproj|solutionrelative:dal\\migrations\\202405150448156_complainandagreementadded.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{48029651-F187-4617-B9A2-85A86B2E63C5}|BLL\\BLL.csproj|D:\\Spring 2024\\Final-Demo-Project---ASP.NET-API\\bll\\services\\membershipservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{48029651-F187-4617-B9A2-85A86B2E63C5}|BLL\\BLL.csproj|solutionrelative:bll\\services\\membershipservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{48029651-F187-4617-B9A2-85A86B2E63C5}|BLL\\BLL.csproj|d:\\spring 2024\\final-demo-project---asp.net-api\\bll\\services\\feedbackservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{48029651-F187-4617-B9A2-85A86B2E63C5}|BLL\\BLL.csproj|solutionrelative:bll\\services\\feedbackservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{B5D4EA70-4046-4684-BC6D-E29F9A47A0D0}|DAL\\DAL.csproj|d:\\spring 2024\\final-demo-project---asp.net-api\\dal\\models\\feedback.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{B5D4EA70-4046-4684-BC6D-E29F9A47A0D0}|DAL\\DAL.csproj|solutionrelative:dal\\models\\feedback.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{48029651-F187-4617-B9A2-85A86B2E63C5}|BLL\\BLL.csproj|d:\\spring 2024\\final-demo-project---asp.net-api\\bll\\services\\managementservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{48029651-F187-4617-B9A2-85A86B2E63C5}|BLL\\BLL.csproj|solutionrelative:bll\\services\\managementservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{B5D4EA70-4046-4684-BC6D-E29F9A47A0D0}|DAL\\DAL.csproj|d:\\spring 2024\\final-demo-project---asp.net-api\\dal\\models\\membership.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{B5D4EA70-4046-4684-BC6D-E29F9A47A0D0}|DAL\\DAL.csproj|solutionrelative:dal\\models\\membership.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{48029651-F187-4617-B9A2-85A86B2E63C5}|BLL\\BLL.csproj|D:\\Spring 2024\\Final-Demo-Project---ASP.NET-API\\bll\\services\\buyerservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{48029651-F187-4617-B9A2-85A86B2E63C5}|BLL\\BLL.csproj|solutionrelative:bll\\services\\buyerservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{B78BF399-CA2A-489C-8B7B-D29E79A7D1A7}|HEMS_FinalDemoProject\\HEMS_FinalDemoProject.csproj|d:\\spring 2024\\final-demo-project---asp.net-api\\hems_finaldemoproject\\controllers\\membershipcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{B78BF399-CA2A-489C-8B7B-D29E79A7D1A7}|HEMS_FinalDemoProject\\HEMS_FinalDemoProject.csproj|solutionrelative:hems_finaldemoproject\\controllers\\membershipcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{B78BF399-CA2A-489C-8B7B-D29E79A7D1A7}|HEMS_FinalDemoProject\\HEMS_FinalDemoProject.csproj|D:\\Spring 2024\\Final-Demo-Project---ASP.NET-API\\hems_finaldemoproject\\controllers\\usercontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{B78BF399-CA2A-489C-8B7B-D29E79A7D1A7}|HEMS_FinalDemoProject\\HEMS_FinalDemoProject.csproj|solutionrelative:hems_finaldemoproject\\controllers\\usercontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{48029651-F187-4617-B9A2-85A86B2E63C5}|BLL\\BLL.csproj|D:\\Spring 2024\\Final-Demo-Project---ASP.NET-API\\bll\\services\\userservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{48029651-F187-4617-B9A2-85A86B2E63C5}|BLL\\BLL.csproj|solutionrelative:bll\\services\\userservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{48029651-F187-4617-B9A2-85A86B2E63C5}|BLL\\BLL.csproj|D:\\Spring 2024\\Final-Demo-Project---ASP.NET-API\\bll\\services\\biddingservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{48029651-F187-4617-B9A2-85A86B2E63C5}|BLL\\BLL.csproj|solutionrelative:bll\\services\\biddingservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{B5D4EA70-4046-4684-BC6D-E29F9A47A0D0}|DAL\\DAL.csproj|d:\\spring 2024\\final-demo-project---asp.net-api\\dal\\models\\user.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{B5D4EA70-4046-4684-BC6D-E29F9A47A0D0}|DAL\\DAL.csproj|solutionrelative:dal\\models\\user.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{48029651-F187-4617-B9A2-85A86B2E63C5}|BLL\\BLL.csproj|D:\\Spring 2024\\Final-Demo-Project---ASP.NET-API\\bll\\services\\paymentservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{48029651-F187-4617-B9A2-85A86B2E63C5}|BLL\\BLL.csproj|solutionrelative:bll\\services\\paymentservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{48029651-F187-4617-B9A2-85A86B2E63C5}|BLL\\BLL.csproj|D:\\Spring 2024\\Final-Demo-Project---ASP.NET-API\\bll\\services\\reviewservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{48029651-F187-4617-B9A2-85A86B2E63C5}|BLL\\BLL.csproj|solutionrelative:bll\\services\\reviewservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{B5D4EA70-4046-4684-BC6D-E29F9A47A0D0}|DAL\\DAL.csproj|D:\\Spring 2024\\Final-Demo-Project---ASP.NET-API\\dal\\models\\review.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{B5D4EA70-4046-4684-BC6D-E29F9A47A0D0}|DAL\\DAL.csproj|solutionrelative:dal\\models\\review.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{48029651-F187-4617-B9A2-85A86B2E63C5}|BLL\\BLL.csproj|D:\\Spring 2024\\Final-Demo-Project---ASP.NET-API\\bll\\services\\propertyservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{48029651-F187-4617-B9A2-85A86B2E63C5}|BLL\\BLL.csproj|solutionrelative:bll\\services\\propertyservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{B5D4EA70-4046-4684-BC6D-E29F9A47A0D0}|DAL\\DAL.csproj|D:\\Spring 2024\\Final-Demo-Project---ASP.NET-API\\dal\\migrations\\configuration.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "AbsoluteMoniker": "D:0:0:{B5D4EA70-4046-4684-BC6D-E29F9A47A0D0}|DAL\\DAL.csproj|h:\\hems--final-project--asp.net--web-api\\dal\\migrations\\configuration.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{B5D4EA70-4046-4684-BC6D-E29F9A47A0D0}|DAL\\DAL.csproj|solutionrelative:dal\\migrations\\configuration.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{B5D4EA70-4046-4684-BC6D-E29F9A47A0D0}|DAL\\DAL.csproj|D:\\Spring 2024\\Final-Demo-Project---ASP.NET-API\\dal\\migrations\\202405150033348_alldone.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{B5D4EA70-4046-4684-BC6D-E29F9A47A0D0}|DAL\\DAL.csproj|solutionrelative:dal\\migrations\\202405150033348_alldone.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+      "AbsoluteMoniker": "D:0:0:{B5D4EA70-4046-4684-BC6D-E29F9A47A0D0}|DAL\\DAL.csproj|h:\\hems--final-project--asp.net--web-api\\dal\\hemscontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{B5D4EA70-4046-4684-BC6D-E29F9A47A0D0}|DAL\\DAL.csproj|solutionrelative:dal\\hemscontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{B5D4EA70-4046-4684-BC6D-E29F9A47A0D0}|DAL\\DAL.csproj|D:\\Spring 2024\\Final-Demo-Project---ASP.NET-API\\dal\\interfaces\\irepo.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{B5D4EA70-4046-4684-BC6D-E29F9A47A0D0}|DAL\\DAL.csproj|solutionrelative:dal\\interfaces\\irepo.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{B5D4EA70-4046-4684-BC6D-E29F9A47A0D0}|DAL\\DAL.csproj|D:\\Spring 2024\\Final-Demo-Project---ASP.NET-API\\dal\\models\\token.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{B5D4EA70-4046-4684-BC6D-E29F9A47A0D0}|DAL\\DAL.csproj|solutionrelative:dal\\models\\token.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{48029651-F187-4617-B9A2-85A86B2E63C5}|BLL\\BLL.csproj|D:\\Spring 2024\\Final-Demo-Project---ASP.NET-API\\bll\\dtos\\tokendto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{48029651-F187-4617-B9A2-85A86B2E63C5}|BLL\\BLL.csproj|solutionrelative:bll\\dtos\\tokendto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{B5D4EA70-4046-4684-BC6D-E29F9A47A0D0}|DAL\\DAL.csproj|D:\\Spring 2024\\Final-Demo-Project---ASP.NET-API\\dal\\repos\\userrepo.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{B5D4EA70-4046-4684-BC6D-E29F9A47A0D0}|DAL\\DAL.csproj|solutionrelative:dal\\repos\\userrepo.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{B5D4EA70-4046-4684-BC6D-E29F9A47A0D0}|DAL\\DAL.csproj|D:\\Spring 2024\\Final-Demo-Project---ASP.NET-API\\dal\\dataaccessfactory.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "AbsoluteMoniker": "D:0:0:{B5D4EA70-4046-4684-BC6D-E29F9A47A0D0}|DAL\\DAL.csproj|H:\\HEMS--Final-Project--ASP.NET--Web-API\\dal\\dataaccessfactory.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{B5D4EA70-4046-4684-BC6D-E29F9A47A0D0}|DAL\\DAL.csproj|solutionrelative:dal\\dataaccessfactory.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{B78BF399-CA2A-489C-8B7B-D29E79A7D1A7}|HEMS_FinalDemoProject\\HEMS_FinalDemoProject.csproj|D:\\Spring 2024\\Final-Demo-Project---ASP.NET-API\\hems_finaldemoproject\\controllers\\landlordcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|G:\\12th semester\\Final-Demo-Project---ASP.NET-API\\DAL\\Interfaces\\IRepoDurjoy.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{48029651-F187-4617-B9A2-85A86B2E63C5}|BLL\\BLL.csproj|h:\\hems--final-project--asp.net--web-api\\bll\\services\\supportticketservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{48029651-F187-4617-B9A2-85A86B2E63C5}|BLL\\BLL.csproj|solutionrelative:bll\\services\\supportticketservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{48029651-F187-4617-B9A2-85A86B2E63C5}|BLL\\BLL.csproj|H:\\HEMS--Final-Project--ASP.NET--Web-API\\bll\\services\\membershipservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{48029651-F187-4617-B9A2-85A86B2E63C5}|BLL\\BLL.csproj|solutionrelative:bll\\services\\membershipservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{48029651-F187-4617-B9A2-85A86B2E63C5}|BLL\\BLL.csproj|H:\\HEMS--Final-Project--ASP.NET--Web-API\\bll\\services\\feedbackservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{48029651-F187-4617-B9A2-85A86B2E63C5}|BLL\\BLL.csproj|solutionrelative:bll\\services\\feedbackservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{B5D4EA70-4046-4684-BC6D-E29F9A47A0D0}|DAL\\DAL.csproj|H:\\HEMS--Final-Project--ASP.NET--Web-API\\dal\\models\\feedback.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{B5D4EA70-4046-4684-BC6D-E29F9A47A0D0}|DAL\\DAL.csproj|solutionrelative:dal\\models\\feedback.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{48029651-F187-4617-B9A2-85A86B2E63C5}|BLL\\BLL.csproj|H:\\HEMS--Final-Project--ASP.NET--Web-API\\bll\\services\\managementservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{48029651-F187-4617-B9A2-85A86B2E63C5}|BLL\\BLL.csproj|solutionrelative:bll\\services\\managementservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{B5D4EA70-4046-4684-BC6D-E29F9A47A0D0}|DAL\\DAL.csproj|H:\\HEMS--Final-Project--ASP.NET--Web-API\\dal\\models\\membership.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{B5D4EA70-4046-4684-BC6D-E29F9A47A0D0}|DAL\\DAL.csproj|solutionrelative:dal\\models\\membership.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{48029651-F187-4617-B9A2-85A86B2E63C5}|BLL\\BLL.csproj|H:\\HEMS--Final-Project--ASP.NET--Web-API\\bll\\services\\buyerservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{48029651-F187-4617-B9A2-85A86B2E63C5}|BLL\\BLL.csproj|solutionrelative:bll\\services\\buyerservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{B78BF399-CA2A-489C-8B7B-D29E79A7D1A7}|HEMS_FinalDemoProject\\HEMS_FinalDemoProject.csproj|H:\\HEMS--Final-Project--ASP.NET--Web-API\\hems_finaldemoproject\\controllers\\membershipcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{B78BF399-CA2A-489C-8B7B-D29E79A7D1A7}|HEMS_FinalDemoProject\\HEMS_FinalDemoProject.csproj|solutionrelative:hems_finaldemoproject\\controllers\\membershipcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{B78BF399-CA2A-489C-8B7B-D29E79A7D1A7}|HEMS_FinalDemoProject\\HEMS_FinalDemoProject.csproj|H:\\HEMS--Final-Project--ASP.NET--Web-API\\hems_finaldemoproject\\controllers\\usercontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{B78BF399-CA2A-489C-8B7B-D29E79A7D1A7}|HEMS_FinalDemoProject\\HEMS_FinalDemoProject.csproj|solutionrelative:hems_finaldemoproject\\controllers\\usercontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{48029651-F187-4617-B9A2-85A86B2E63C5}|BLL\\BLL.csproj|H:\\HEMS--Final-Project--ASP.NET--Web-API\\bll\\services\\userservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{48029651-F187-4617-B9A2-85A86B2E63C5}|BLL\\BLL.csproj|solutionrelative:bll\\services\\userservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{48029651-F187-4617-B9A2-85A86B2E63C5}|BLL\\BLL.csproj|H:\\HEMS--Final-Project--ASP.NET--Web-API\\bll\\services\\biddingservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{48029651-F187-4617-B9A2-85A86B2E63C5}|BLL\\BLL.csproj|solutionrelative:bll\\services\\biddingservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{B5D4EA70-4046-4684-BC6D-E29F9A47A0D0}|DAL\\DAL.csproj|H:\\HEMS--Final-Project--ASP.NET--Web-API\\dal\\models\\user.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{B5D4EA70-4046-4684-BC6D-E29F9A47A0D0}|DAL\\DAL.csproj|solutionrelative:dal\\models\\user.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{48029651-F187-4617-B9A2-85A86B2E63C5}|BLL\\BLL.csproj|H:\\HEMS--Final-Project--ASP.NET--Web-API\\bll\\services\\paymentservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{48029651-F187-4617-B9A2-85A86B2E63C5}|BLL\\BLL.csproj|solutionrelative:bll\\services\\paymentservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{48029651-F187-4617-B9A2-85A86B2E63C5}|BLL\\BLL.csproj|H:\\HEMS--Final-Project--ASP.NET--Web-API\\bll\\services\\reviewservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{48029651-F187-4617-B9A2-85A86B2E63C5}|BLL\\BLL.csproj|solutionrelative:bll\\services\\reviewservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{B5D4EA70-4046-4684-BC6D-E29F9A47A0D0}|DAL\\DAL.csproj|H:\\HEMS--Final-Project--ASP.NET--Web-API\\dal\\models\\review.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{B5D4EA70-4046-4684-BC6D-E29F9A47A0D0}|DAL\\DAL.csproj|solutionrelative:dal\\models\\review.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{48029651-F187-4617-B9A2-85A86B2E63C5}|BLL\\BLL.csproj|H:\\HEMS--Final-Project--ASP.NET--Web-API\\bll\\services\\propertyservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{48029651-F187-4617-B9A2-85A86B2E63C5}|BLL\\BLL.csproj|solutionrelative:bll\\services\\propertyservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{B5D4EA70-4046-4684-BC6D-E29F9A47A0D0}|DAL\\DAL.csproj|H:\\HEMS--Final-Project--ASP.NET--Web-API\\dal\\interfaces\\irepo.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{B5D4EA70-4046-4684-BC6D-E29F9A47A0D0}|DAL\\DAL.csproj|solutionrelative:dal\\interfaces\\irepo.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{B5D4EA70-4046-4684-BC6D-E29F9A47A0D0}|DAL\\DAL.csproj|H:\\HEMS--Final-Project--ASP.NET--Web-API\\dal\\models\\token.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{B5D4EA70-4046-4684-BC6D-E29F9A47A0D0}|DAL\\DAL.csproj|solutionrelative:dal\\models\\token.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{48029651-F187-4617-B9A2-85A86B2E63C5}|BLL\\BLL.csproj|H:\\HEMS--Final-Project--ASP.NET--Web-API\\bll\\dtos\\tokendto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{48029651-F187-4617-B9A2-85A86B2E63C5}|BLL\\BLL.csproj|solutionrelative:bll\\dtos\\tokendto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{B5D4EA70-4046-4684-BC6D-E29F9A47A0D0}|DAL\\DAL.csproj|H:\\HEMS--Final-Project--ASP.NET--Web-API\\dal\\repos\\userrepo.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{B5D4EA70-4046-4684-BC6D-E29F9A47A0D0}|DAL\\DAL.csproj|solutionrelative:dal\\repos\\userrepo.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{B78BF399-CA2A-489C-8B7B-D29E79A7D1A7}|HEMS_FinalDemoProject\\HEMS_FinalDemoProject.csproj|H:\\HEMS--Final-Project--ASP.NET--Web-API\\hems_finaldemoproject\\controllers\\landlordcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{B78BF399-CA2A-489C-8B7B-D29E79A7D1A7}|HEMS_FinalDemoProject\\HEMS_FinalDemoProject.csproj|solutionrelative:hems_finaldemoproject\\controllers\\landlordcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{48029651-F187-4617-B9A2-85A86B2E63C5}|BLL\\BLL.csproj|D:\\Spring 2024\\Final-Demo-Project---ASP.NET-API\\bll\\dtos\\paymentdto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "AbsoluteMoniker": "D:0:0:{48029651-F187-4617-B9A2-85A86B2E63C5}|BLL\\BLL.csproj|H:\\HEMS--Final-Project--ASP.NET--Web-API\\bll\\dtos\\paymentdto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{48029651-F187-4617-B9A2-85A86B2E63C5}|BLL\\BLL.csproj|solutionrelative:bll\\dtos\\paymentdto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{B78BF399-CA2A-489C-8B7B-D29E79A7D1A7}|HEMS_FinalDemoProject\\HEMS_FinalDemoProject.csproj|D:\\Spring 2024\\Final-Demo-Project---ASP.NET-API\\hems_finaldemoproject\\controllers\\reviewcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "AbsoluteMoniker": "D:0:0:{B78BF399-CA2A-489C-8B7B-D29E79A7D1A7}|HEMS_FinalDemoProject\\HEMS_FinalDemoProject.csproj|H:\\HEMS--Final-Project--ASP.NET--Web-API\\hems_finaldemoproject\\controllers\\reviewcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{B78BF399-CA2A-489C-8B7B-D29E79A7D1A7}|HEMS_FinalDemoProject\\HEMS_FinalDemoProject.csproj|solutionrelative:hems_finaldemoproject\\controllers\\reviewcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{B78BF399-CA2A-489C-8B7B-D29E79A7D1A7}|HEMS_FinalDemoProject\\HEMS_FinalDemoProject.csproj|D:\\Spring 2024\\Final-Demo-Project---ASP.NET-API\\hems_finaldemoproject\\controllers\\paymentcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "AbsoluteMoniker": "D:0:0:{B78BF399-CA2A-489C-8B7B-D29E79A7D1A7}|HEMS_FinalDemoProject\\HEMS_FinalDemoProject.csproj|H:\\HEMS--Final-Project--ASP.NET--Web-API\\hems_finaldemoproject\\controllers\\paymentcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{B78BF399-CA2A-489C-8B7B-D29E79A7D1A7}|HEMS_FinalDemoProject\\HEMS_FinalDemoProject.csproj|solutionrelative:hems_finaldemoproject\\controllers\\paymentcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{48029651-F187-4617-B9A2-85A86B2E63C5}|BLL\\BLL.csproj|D:\\Spring 2024\\Final-Demo-Project---ASP.NET-API\\bll\\dtos\\propertybiddingdto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "AbsoluteMoniker": "D:0:0:{48029651-F187-4617-B9A2-85A86B2E63C5}|BLL\\BLL.csproj|H:\\HEMS--Final-Project--ASP.NET--Web-API\\bll\\dtos\\propertybiddingdto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{48029651-F187-4617-B9A2-85A86B2E63C5}|BLL\\BLL.csproj|solutionrelative:bll\\dtos\\propertybiddingdto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{B5D4EA70-4046-4684-BC6D-E29F9A47A0D0}|DAL\\DAL.csproj|D:\\Spring 2024\\Final-Demo-Project---ASP.NET-API\\dal\\app.config||{FA3CD31E-987B-443A-9B81-186104E8DAC1}",
+      "AbsoluteMoniker": "D:0:0:{B5D4EA70-4046-4684-BC6D-E29F9A47A0D0}|DAL\\DAL.csproj|H:\\HEMS--Final-Project--ASP.NET--Web-API\\dal\\app.config||{FA3CD31E-987B-443A-9B81-186104E8DAC1}",
       "RelativeMoniker": "D:0:0:{B5D4EA70-4046-4684-BC6D-E29F9A47A0D0}|DAL\\DAL.csproj|solutionrelative:dal\\app.config||{FA3CD31E-987B-443A-9B81-186104E8DAC1}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{B5D4EA70-4046-4684-BC6D-E29F9A47A0D0}|DAL\\DAL.csproj|D:\\Spring 2024\\Final-Demo-Project---ASP.NET-API\\dal\\repos\\feedbackrepo.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "AbsoluteMoniker": "D:0:0:{B5D4EA70-4046-4684-BC6D-E29F9A47A0D0}|DAL\\DAL.csproj|H:\\HEMS--Final-Project--ASP.NET--Web-API\\dal\\repos\\feedbackrepo.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{B5D4EA70-4046-4684-BC6D-E29F9A47A0D0}|DAL\\DAL.csproj|solutionrelative:dal\\repos\\feedbackrepo.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{B5D4EA70-4046-4684-BC6D-E29F9A47A0D0}|DAL\\DAL.csproj|D:\\Spring 2024\\Final-Demo-Project---ASP.NET-API\\dal\\repos\\supportticketrepo.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "AbsoluteMoniker": "D:0:0:{B5D4EA70-4046-4684-BC6D-E29F9A47A0D0}|DAL\\DAL.csproj|H:\\HEMS--Final-Project--ASP.NET--Web-API\\dal\\repos\\supportticketrepo.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{B5D4EA70-4046-4684-BC6D-E29F9A47A0D0}|DAL\\DAL.csproj|solutionrelative:dal\\repos\\supportticketrepo.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     }
   ],
@@ -134,41 +141,77 @@
       "DocumentGroups": [
         {
           "DockedWidth": 200,
-          "SelectedChildIndex": 2,
+          "SelectedChildIndex": 0,
           "Children": [
             {
               "$type": "Document",
-              "DocumentIndex": 3,
-              "Title": "Feedback.cs",
-              "DocumentMoniker": "D:\\Spring 2024\\Final-Demo-Project---ASP.NET-API\\DAL\\Models\\Feedback.cs",
-              "RelativeDocumentMoniker": "DAL\\Models\\Feedback.cs",
-              "ToolTip": "D:\\Spring 2024\\Final-Demo-Project---ASP.NET-API\\DAL\\Models\\Feedback.cs",
-              "RelativeToolTip": "DAL\\Models\\Feedback.cs",
-              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAANAAAA",
+              "DocumentIndex": 0,
+              "Title": "202405150448156_ComplainAndAgreementAdded.cs",
+              "DocumentMoniker": "H:\\HEMS--Final-Project--ASP.NET--Web-API\\DAL\\Migrations\\202405150448156_ComplainAndAgreementAdded.cs",
+              "RelativeDocumentMoniker": "DAL\\Migrations\\202405150448156_ComplainAndAgreementAdded.cs",
+              "ToolTip": "H:\\HEMS--Final-Project--ASP.NET--Web-API\\DAL\\Migrations\\202405150448156_ComplainAndAgreementAdded.cs",
+              "RelativeToolTip": "DAL\\Migrations\\202405150448156_ComplainAndAgreementAdded.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-05-15T02:40:20.925Z",
+              "WhenOpened": "2024-05-15T04:49:07.073Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "Configuration.cs",
+              "DocumentMoniker": "H:\\HEMS--Final-Project--ASP.NET--Web-API\\DAL\\Migrations\\Configuration.cs",
+              "RelativeDocumentMoniker": "DAL\\Migrations\\Configuration.cs",
+              "ToolTip": "H:\\HEMS--Final-Project--ASP.NET--Web-API\\DAL\\Migrations\\Configuration.cs",
+              "RelativeToolTip": "DAL\\Migrations\\Configuration.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-05-15T04:46:23.234Z",
               "EditorCaption": ""
             },
             {
               "$type": "Document",
               "DocumentIndex": 2,
-              "Title": "FeedbackService.cs",
-              "DocumentMoniker": "D:\\Spring 2024\\Final-Demo-Project---ASP.NET-API\\BLL\\Services\\FeedbackService.cs",
-              "RelativeDocumentMoniker": "BLL\\Services\\FeedbackService.cs",
-              "ToolTip": "D:\\Spring 2024\\Final-Demo-Project---ASP.NET-API\\BLL\\Services\\FeedbackService.cs",
-              "RelativeToolTip": "BLL\\Services\\FeedbackService.cs",
-              "ViewState": "AQIAACkAAAAAAAAAAAAgwDwAAAAJAAAA",
+              "Title": "HEMSContext.cs",
+              "DocumentMoniker": "H:\\HEMS--Final-Project--ASP.NET--Web-API\\DAL\\HEMSContext.cs",
+              "RelativeDocumentMoniker": "DAL\\HEMSContext.cs",
+              "ToolTip": "H:\\HEMS--Final-Project--ASP.NET--Web-API\\DAL\\HEMSContext.cs",
+              "RelativeToolTip": "DAL\\HEMSContext.cs",
+              "ViewState": "AQIAAAcAAAAAAAAAAAAYwBQAAAA2AAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-05-15T02:40:08.778Z",
+              "WhenOpened": "2024-05-15T04:43:58.449Z",
               "EditorCaption": ""
             },
             {
               "$type": "Document",
-              "DocumentIndex": 0,
+              "DocumentIndex": 4,
+              "Title": "IRepoDurjoy.cs",
+              "DocumentMoniker": "G:\\12th semester\\Final-Demo-Project---ASP.NET-API\\DAL\\Interfaces\\IRepoDurjoy.cs",
+              "ToolTip": "G:\\12th semester\\Final-Demo-Project---ASP.NET-API\\DAL\\Interfaces\\IRepoDurjoy.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-05-15T04:42:18.328Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 7,
+              "Title": "FeedbackService.cs",
+              "DocumentMoniker": "H:\\HEMS--Final-Project--ASP.NET--Web-API\\BLL\\Services\\FeedbackService.cs",
+              "RelativeDocumentMoniker": "BLL\\Services\\FeedbackService.cs",
+              "ToolTip": "H:\\HEMS--Final-Project--ASP.NET--Web-API\\BLL\\Services\\FeedbackService.cs",
+              "RelativeToolTip": "BLL\\Services\\FeedbackService.cs",
+              "ViewState": "AQIAACkAAAAAAAAAAAAgwDwAAAAJAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-05-15T02:40:08.778Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
               "Title": "SupportTicketService.cs",
-              "DocumentMoniker": "D:\\Spring 2024\\Final-Demo-Project---ASP.NET-API\\BLL\\Services\\SupportTicketService.cs",
+              "DocumentMoniker": "H:\\HEMS--Final-Project--ASP.NET--Web-API\\BLL\\Services\\SupportTicketService.cs",
               "RelativeDocumentMoniker": "BLL\\Services\\SupportTicketService.cs",
-              "ToolTip": "D:\\Spring 2024\\Final-Demo-Project---ASP.NET-API\\BLL\\Services\\SupportTicketService.cs",
+              "ToolTip": "H:\\HEMS--Final-Project--ASP.NET--Web-API\\BLL\\Services\\SupportTicketService.cs",
               "RelativeToolTip": "BLL\\Services\\SupportTicketService.cs",
               "ViewState": "AQIAACcAAAAAAAAAAAAAADUAAAANAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
@@ -177,115 +220,132 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 5,
+              "DocumentIndex": 10,
               "Title": "Membership.cs",
-              "DocumentMoniker": "D:\\Spring 2024\\Final-Demo-Project---ASP.NET-API\\DAL\\Models\\Membership.cs",
+              "DocumentMoniker": "H:\\HEMS--Final-Project--ASP.NET--Web-API\\DAL\\Models\\Membership.cs",
               "RelativeDocumentMoniker": "DAL\\Models\\Membership.cs",
-              "ToolTip": "D:\\Spring 2024\\Final-Demo-Project---ASP.NET-API\\DAL\\Models\\Membership.cs",
+              "ToolTip": "H:\\HEMS--Final-Project--ASP.NET--Web-API\\DAL\\Models\\Membership.cs",
               "RelativeToolTip": "DAL\\Models\\Membership.cs",
               "ViewState": "AQIAABUAAAAAAAAAAAAxwB4AAAAaAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-05-15T02:29:11.751Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 4,
-              "Title": "ManagementService.cs",
-              "DocumentMoniker": "D:\\Spring 2024\\Final-Demo-Project---ASP.NET-API\\BLL\\Services\\ManagementService.cs",
-              "RelativeDocumentMoniker": "BLL\\Services\\ManagementService.cs",
-              "ToolTip": "D:\\Spring 2024\\Final-Demo-Project---ASP.NET-API\\BLL\\Services\\ManagementService.cs",
-              "RelativeToolTip": "BLL\\Services\\ManagementService.cs",
-              "ViewState": "AQIAAAcAAAAAAAAAAAAAAAcAAAASAAAA",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-05-15T02:19:50.107Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 1,
-              "Title": "MembershipService.cs",
-              "DocumentMoniker": "D:\\Spring 2024\\Final-Demo-Project---ASP.NET-API\\BLL\\Services\\MembershipService.cs",
-              "RelativeDocumentMoniker": "BLL\\Services\\MembershipService.cs",
-              "ToolTip": "D:\\Spring 2024\\Final-Demo-Project---ASP.NET-API\\BLL\\Services\\MembershipService.cs",
-              "RelativeToolTip": "BLL\\Services\\MembershipService.cs",
-              "ViewState": "AQIAACsAAAAAAAAAAAAAACsAAAApAAAA",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-05-15T01:44:22.614Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 6,
-              "Title": "BuyerService.cs",
-              "DocumentMoniker": "D:\\Spring 2024\\Final-Demo-Project---ASP.NET-API\\BLL\\Services\\BuyerService.cs",
-              "RelativeDocumentMoniker": "BLL\\Services\\BuyerService.cs",
-              "ToolTip": "D:\\Spring 2024\\Final-Demo-Project---ASP.NET-API\\BLL\\Services\\BuyerService.cs",
-              "RelativeToolTip": "BLL\\Services\\BuyerService.cs",
-              "ViewState": "AQIAABUAAAAAAAAAAAAAABUAAAAJAAAA",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-05-15T01:08:40.745Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 10,
-              "Title": "BiddingService.cs",
-              "DocumentMoniker": "D:\\Spring 2024\\Final-Demo-Project---ASP.NET-API\\BLL\\Services\\BiddingService.cs",
-              "RelativeDocumentMoniker": "BLL\\Services\\BiddingService.cs",
-              "ToolTip": "D:\\Spring 2024\\Final-Demo-Project---ASP.NET-API\\BLL\\Services\\BiddingService.cs",
-              "RelativeToolTip": "BLL\\Services\\BiddingService.cs",
-              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-05-15T00:46:13.641Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 7,
-              "Title": "MembershipController.cs",
-              "DocumentMoniker": "D:\\Spring 2024\\Final-Demo-Project---ASP.NET-API\\HEMS_FinalDemoProject\\Controllers\\MembershipController.cs",
-              "RelativeDocumentMoniker": "HEMS_FinalDemoProject\\Controllers\\MembershipController.cs",
-              "ToolTip": "D:\\Spring 2024\\Final-Demo-Project---ASP.NET-API\\HEMS_FinalDemoProject\\Controllers\\MembershipController.cs",
-              "RelativeToolTip": "HEMS_FinalDemoProject\\Controllers\\MembershipController.cs",
-              "ViewState": "AQIAAA8AAAAAAAAAAAAAAB8AAAAkAAAA",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-05-15T02:28:33.804Z",
-              "EditorCaption": ""
+              "WhenOpened": "2024-05-15T02:29:11.751Z"
             },
             {
               "$type": "Document",
               "DocumentIndex": 9,
-              "Title": "UserService.cs",
-              "DocumentMoniker": "D:\\Spring 2024\\Final-Demo-Project---ASP.NET-API\\BLL\\Services\\UserService.cs",
-              "RelativeDocumentMoniker": "BLL\\Services\\UserService.cs",
-              "ToolTip": "D:\\Spring 2024\\Final-Demo-Project---ASP.NET-API\\BLL\\Services\\UserService.cs",
-              "RelativeToolTip": "BLL\\Services\\UserService.cs",
-              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Title": "ManagementService.cs",
+              "DocumentMoniker": "H:\\HEMS--Final-Project--ASP.NET--Web-API\\BLL\\Services\\ManagementService.cs",
+              "RelativeDocumentMoniker": "BLL\\Services\\ManagementService.cs",
+              "ToolTip": "H:\\HEMS--Final-Project--ASP.NET--Web-API\\BLL\\Services\\ManagementService.cs",
+              "RelativeToolTip": "BLL\\Services\\ManagementService.cs",
+              "ViewState": "AQIAAAcAAAAAAAAAAAAAAAcAAAASAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-05-15T00:49:22.749Z",
+              "WhenOpened": "2024-05-15T02:19:50.107Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "MembershipService.cs",
+              "DocumentMoniker": "H:\\HEMS--Final-Project--ASP.NET--Web-API\\BLL\\Services\\MembershipService.cs",
+              "RelativeDocumentMoniker": "BLL\\Services\\MembershipService.cs",
+              "ToolTip": "H:\\HEMS--Final-Project--ASP.NET--Web-API\\BLL\\Services\\MembershipService.cs",
+              "RelativeToolTip": "BLL\\Services\\MembershipService.cs",
+              "ViewState": "AQIAACsAAAAAAAAAAAAAACsAAAApAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-05-15T01:44:22.614Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "DataAccessFactory.cs",
+              "DocumentMoniker": "H:\\HEMS--Final-Project--ASP.NET--Web-API\\DAL\\DataAccessFactory.cs",
+              "RelativeDocumentMoniker": "DAL\\DataAccessFactory.cs",
+              "ToolTip": "H:\\HEMS--Final-Project--ASP.NET--Web-API\\DAL\\DataAccessFactory.cs",
+              "RelativeToolTip": "DAL\\DataAccessFactory.cs",
+              "ViewState": "AQIAACUAAAAAAAAAAAAmwDkAAAAJAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-04-29T05:17:36.691Z",
               "EditorCaption": ""
             },
             {
               "$type": "Document",
               "DocumentIndex": 8,
-              "Title": "UserController.cs",
-              "DocumentMoniker": "D:\\Spring 2024\\Final-Demo-Project---ASP.NET-API\\HEMS_FinalDemoProject\\Controllers\\UserController.cs",
-              "RelativeDocumentMoniker": "HEMS_FinalDemoProject\\Controllers\\UserController.cs",
-              "ToolTip": "D:\\Spring 2024\\Final-Demo-Project---ASP.NET-API\\HEMS_FinalDemoProject\\Controllers\\UserController.cs",
-              "RelativeToolTip": "HEMS_FinalDemoProject\\Controllers\\UserController.cs",
-              "ViewState": "AQIAAA8AAAAAAAAAAAAAAA8AAAAtAAAA",
+              "Title": "Feedback.cs",
+              "DocumentMoniker": "H:\\HEMS--Final-Project--ASP.NET--Web-API\\DAL\\Models\\Feedback.cs",
+              "RelativeDocumentMoniker": "DAL\\Models\\Feedback.cs",
+              "ToolTip": "H:\\HEMS--Final-Project--ASP.NET--Web-API\\DAL\\Models\\Feedback.cs",
+              "RelativeToolTip": "DAL\\Models\\Feedback.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAANAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-05-14T23:48:55.323Z",
-              "EditorCaption": ""
+              "WhenOpened": "2024-05-15T02:40:20.925Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 11,
+              "Title": "BuyerService.cs",
+              "DocumentMoniker": "H:\\HEMS--Final-Project--ASP.NET--Web-API\\BLL\\Services\\BuyerService.cs",
+              "RelativeDocumentMoniker": "BLL\\Services\\BuyerService.cs",
+              "ToolTip": "H:\\HEMS--Final-Project--ASP.NET--Web-API\\BLL\\Services\\BuyerService.cs",
+              "RelativeToolTip": "BLL\\Services\\BuyerService.cs",
+              "ViewState": "AQIAABUAAAAAAAAAAAAAABUAAAAJAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-05-15T01:08:40.745Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 15,
+              "Title": "BiddingService.cs",
+              "DocumentMoniker": "H:\\HEMS--Final-Project--ASP.NET--Web-API\\BLL\\Services\\BiddingService.cs",
+              "RelativeDocumentMoniker": "BLL\\Services\\BiddingService.cs",
+              "ToolTip": "H:\\HEMS--Final-Project--ASP.NET--Web-API\\BLL\\Services\\BiddingService.cs",
+              "RelativeToolTip": "BLL\\Services\\BiddingService.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-05-15T00:46:13.641Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 12,
+              "Title": "MembershipController.cs",
+              "DocumentMoniker": "H:\\HEMS--Final-Project--ASP.NET--Web-API\\HEMS_FinalDemoProject\\Controllers\\MembershipController.cs",
+              "RelativeDocumentMoniker": "HEMS_FinalDemoProject\\Controllers\\MembershipController.cs",
+              "ToolTip": "H:\\HEMS--Final-Project--ASP.NET--Web-API\\HEMS_FinalDemoProject\\Controllers\\MembershipController.cs",
+              "RelativeToolTip": "HEMS_FinalDemoProject\\Controllers\\MembershipController.cs",
+              "ViewState": "AQIAAA8AAAAAAAAAAAAAAB8AAAAkAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-05-15T02:28:33.804Z"
             },
             {
               "$type": "Document",
               "DocumentIndex": 14,
+              "Title": "UserService.cs",
+              "DocumentMoniker": "H:\\HEMS--Final-Project--ASP.NET--Web-API\\BLL\\Services\\UserService.cs",
+              "RelativeDocumentMoniker": "BLL\\Services\\UserService.cs",
+              "ToolTip": "H:\\HEMS--Final-Project--ASP.NET--Web-API\\BLL\\Services\\UserService.cs",
+              "RelativeToolTip": "BLL\\Services\\UserService.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-05-15T00:49:22.749Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 13,
+              "Title": "UserController.cs",
+              "DocumentMoniker": "H:\\HEMS--Final-Project--ASP.NET--Web-API\\HEMS_FinalDemoProject\\Controllers\\UserController.cs",
+              "RelativeDocumentMoniker": "HEMS_FinalDemoProject\\Controllers\\UserController.cs",
+              "ToolTip": "H:\\HEMS--Final-Project--ASP.NET--Web-API\\HEMS_FinalDemoProject\\Controllers\\UserController.cs",
+              "RelativeToolTip": "HEMS_FinalDemoProject\\Controllers\\UserController.cs",
+              "ViewState": "AQIAAA8AAAAAAAAAAAAAAA8AAAAtAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-05-14T23:48:55.323Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 19,
               "Title": "Review.cs",
-              "DocumentMoniker": "D:\\Spring 2024\\Final-Demo-Project---ASP.NET-API\\DAL\\Models\\Review.cs",
+              "DocumentMoniker": "H:\\HEMS--Final-Project--ASP.NET--Web-API\\DAL\\Models\\Review.cs",
               "RelativeDocumentMoniker": "DAL\\Models\\Review.cs",
-              "ToolTip": "D:\\Spring 2024\\Final-Demo-Project---ASP.NET-API\\DAL\\Models\\Review.cs",
+              "ToolTip": "H:\\HEMS--Final-Project--ASP.NET--Web-API\\DAL\\Models\\Review.cs",
               "RelativeToolTip": "DAL\\Models\\Review.cs",
               "ViewState": "AQIAABIAAAAAAAAAAAAAAAAAAAAAAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
@@ -293,24 +353,23 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 11,
+              "DocumentIndex": 16,
               "Title": "User.cs",
-              "DocumentMoniker": "D:\\Spring 2024\\Final-Demo-Project---ASP.NET-API\\DAL\\Models\\User.cs",
+              "DocumentMoniker": "H:\\HEMS--Final-Project--ASP.NET--Web-API\\DAL\\Models\\User.cs",
               "RelativeDocumentMoniker": "DAL\\Models\\User.cs",
-              "ToolTip": "D:\\Spring 2024\\Final-Demo-Project---ASP.NET-API\\DAL\\Models\\User.cs",
+              "ToolTip": "H:\\HEMS--Final-Project--ASP.NET--Web-API\\DAL\\Models\\User.cs",
               "RelativeToolTip": "DAL\\Models\\User.cs",
               "ViewState": "AQIAAAkAAAAAAAAAAAAAABMAAAASAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-05-15T02:09:19.92Z",
-              "EditorCaption": ""
+              "WhenOpened": "2024-05-15T02:09:19.92Z"
             },
             {
               "$type": "Document",
-              "DocumentIndex": 13,
+              "DocumentIndex": 18,
               "Title": "ReviewService.cs",
-              "DocumentMoniker": "D:\\Spring 2024\\Final-Demo-Project---ASP.NET-API\\BLL\\Services\\ReviewService.cs",
+              "DocumentMoniker": "H:\\HEMS--Final-Project--ASP.NET--Web-API\\BLL\\Services\\ReviewService.cs",
               "RelativeDocumentMoniker": "BLL\\Services\\ReviewService.cs",
-              "ToolTip": "D:\\Spring 2024\\Final-Demo-Project---ASP.NET-API\\BLL\\Services\\ReviewService.cs",
+              "ToolTip": "H:\\HEMS--Final-Project--ASP.NET--Web-API\\BLL\\Services\\ReviewService.cs",
               "RelativeToolTip": "BLL\\Services\\ReviewService.cs",
               "ViewState": "AQIAACwAAAAAAAAAAAAlwDsAAAAJAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
@@ -318,11 +377,11 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 12,
+              "DocumentIndex": 17,
               "Title": "PaymentService.cs",
-              "DocumentMoniker": "D:\\Spring 2024\\Final-Demo-Project---ASP.NET-API\\BLL\\Services\\PaymentService.cs",
+              "DocumentMoniker": "H:\\HEMS--Final-Project--ASP.NET--Web-API\\BLL\\Services\\PaymentService.cs",
               "RelativeDocumentMoniker": "BLL\\Services\\PaymentService.cs",
-              "ToolTip": "D:\\Spring 2024\\Final-Demo-Project---ASP.NET-API\\BLL\\Services\\PaymentService.cs",
+              "ToolTip": "H:\\HEMS--Final-Project--ASP.NET--Web-API\\BLL\\Services\\PaymentService.cs",
               "RelativeToolTip": "BLL\\Services\\PaymentService.cs",
               "ViewState": "AQIAAA8AAAAAAAAAAAAEwB0AAAANAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
@@ -330,11 +389,11 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 15,
+              "DocumentIndex": 20,
               "Title": "PropertyService.cs",
-              "DocumentMoniker": "D:\\Spring 2024\\Final-Demo-Project---ASP.NET-API\\BLL\\Services\\PropertyService.cs",
+              "DocumentMoniker": "H:\\HEMS--Final-Project--ASP.NET--Web-API\\BLL\\Services\\PropertyService.cs",
               "RelativeDocumentMoniker": "BLL\\Services\\PropertyService.cs",
-              "ToolTip": "D:\\Spring 2024\\Final-Demo-Project---ASP.NET-API\\BLL\\Services\\PropertyService.cs",
+              "ToolTip": "H:\\HEMS--Final-Project--ASP.NET--Web-API\\BLL\\Services\\PropertyService.cs",
               "RelativeToolTip": "BLL\\Services\\PropertyService.cs",
               "ViewState": "AQIAAAAAAAAAAAAAAAAAAAEAAAAAAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
@@ -342,23 +401,11 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 16,
-              "Title": "Configuration.cs",
-              "DocumentMoniker": "D:\\Spring 2024\\Final-Demo-Project---ASP.NET-API\\DAL\\Migrations\\Configuration.cs",
-              "RelativeDocumentMoniker": "DAL\\Migrations\\Configuration.cs",
-              "ToolTip": "D:\\Spring 2024\\Final-Demo-Project---ASP.NET-API\\DAL\\Migrations\\Configuration.cs",
-              "RelativeToolTip": "DAL\\Migrations\\Configuration.cs",
-              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-05-15T00:32:55.501Z"
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 18,
+              "DocumentIndex": 21,
               "Title": "IRepo.cs",
-              "DocumentMoniker": "D:\\Spring 2024\\Final-Demo-Project---ASP.NET-API\\DAL\\Interfaces\\IRepo.cs",
+              "DocumentMoniker": "H:\\HEMS--Final-Project--ASP.NET--Web-API\\DAL\\Interfaces\\IRepo.cs",
               "RelativeDocumentMoniker": "DAL\\Interfaces\\IRepo.cs",
-              "ToolTip": "D:\\Spring 2024\\Final-Demo-Project---ASP.NET-API\\DAL\\Interfaces\\IRepo.cs",
+              "ToolTip": "H:\\HEMS--Final-Project--ASP.NET--Web-API\\DAL\\Interfaces\\IRepo.cs",
               "RelativeToolTip": "DAL\\Interfaces\\IRepo.cs",
               "ViewState": "AQIAAAUAAAAAAAAAAAAAABIAAAAAAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
@@ -366,23 +413,11 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 17,
-              "Title": "202405150033348_AllDone.cs",
-              "DocumentMoniker": "D:\\Spring 2024\\Final-Demo-Project---ASP.NET-API\\DAL\\Migrations\\202405150033348_AllDone.cs",
-              "RelativeDocumentMoniker": "DAL\\Migrations\\202405150033348_AllDone.cs",
-              "ToolTip": "D:\\Spring 2024\\Final-Demo-Project---ASP.NET-API\\DAL\\Migrations\\202405150033348_AllDone.cs",
-              "RelativeToolTip": "DAL\\Migrations\\202405150033348_AllDone.cs",
-              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-05-15T00:33:42.564Z"
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 19,
+              "DocumentIndex": 22,
               "Title": "Token.cs",
-              "DocumentMoniker": "D:\\Spring 2024\\Final-Demo-Project---ASP.NET-API\\DAL\\Models\\Token.cs",
+              "DocumentMoniker": "H:\\HEMS--Final-Project--ASP.NET--Web-API\\DAL\\Models\\Token.cs",
               "RelativeDocumentMoniker": "DAL\\Models\\Token.cs",
-              "ToolTip": "D:\\Spring 2024\\Final-Demo-Project---ASP.NET-API\\DAL\\Models\\Token.cs",
+              "ToolTip": "H:\\HEMS--Final-Project--ASP.NET--Web-API\\DAL\\Models\\Token.cs",
               "RelativeToolTip": "DAL\\Models\\Token.cs",
               "ViewState": "AQIAAAsAAAAAAAAAAAAQwBoAAAAAAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
@@ -390,11 +425,11 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 20,
+              "DocumentIndex": 23,
               "Title": "TokenDTO.cs",
-              "DocumentMoniker": "D:\\Spring 2024\\Final-Demo-Project---ASP.NET-API\\BLL\\DTOs\\TokenDTO.cs",
+              "DocumentMoniker": "H:\\HEMS--Final-Project--ASP.NET--Web-API\\BLL\\DTOs\\TokenDTO.cs",
               "RelativeDocumentMoniker": "BLL\\DTOs\\TokenDTO.cs",
-              "ToolTip": "D:\\Spring 2024\\Final-Demo-Project---ASP.NET-API\\BLL\\DTOs\\TokenDTO.cs",
+              "ToolTip": "H:\\HEMS--Final-Project--ASP.NET--Web-API\\BLL\\DTOs\\TokenDTO.cs",
               "RelativeToolTip": "BLL\\DTOs\\TokenDTO.cs",
               "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
@@ -402,11 +437,11 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 21,
+              "DocumentIndex": 24,
               "Title": "UserRepo.cs",
-              "DocumentMoniker": "D:\\Spring 2024\\Final-Demo-Project---ASP.NET-API\\DAL\\Repos\\UserRepo.cs",
+              "DocumentMoniker": "H:\\HEMS--Final-Project--ASP.NET--Web-API\\DAL\\Repos\\UserRepo.cs",
               "RelativeDocumentMoniker": "DAL\\Repos\\UserRepo.cs",
-              "ToolTip": "D:\\Spring 2024\\Final-Demo-Project---ASP.NET-API\\DAL\\Repos\\UserRepo.cs",
+              "ToolTip": "H:\\HEMS--Final-Project--ASP.NET--Web-API\\DAL\\Repos\\UserRepo.cs",
               "RelativeToolTip": "DAL\\Repos\\UserRepo.cs",
               "ViewState": "AQIAABAAAAAAAAAAAAAgwCYAAAANAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
@@ -414,23 +449,11 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 22,
-              "Title": "DataAccessFactory.cs",
-              "DocumentMoniker": "D:\\Spring 2024\\Final-Demo-Project---ASP.NET-API\\DAL\\DataAccessFactory.cs",
-              "RelativeDocumentMoniker": "DAL\\DataAccessFactory.cs",
-              "ToolTip": "D:\\Spring 2024\\Final-Demo-Project---ASP.NET-API\\DAL\\DataAccessFactory.cs",
-              "RelativeToolTip": "DAL\\DataAccessFactory.cs",
-              "ViewState": "AQIAACMAAAAAAAAAAAAiwDIAAAAAAAAA",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-04-29T05:17:36.691Z"
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 23,
+              "DocumentIndex": 25,
               "Title": "LandlordController.cs",
-              "DocumentMoniker": "D:\\Spring 2024\\Final-Demo-Project---ASP.NET-API\\HEMS_FinalDemoProject\\Controllers\\LandlordController.cs",
+              "DocumentMoniker": "H:\\HEMS--Final-Project--ASP.NET--Web-API\\HEMS_FinalDemoProject\\Controllers\\LandlordController.cs",
               "RelativeDocumentMoniker": "HEMS_FinalDemoProject\\Controllers\\LandlordController.cs",
-              "ToolTip": "D:\\Spring 2024\\Final-Demo-Project---ASP.NET-API\\HEMS_FinalDemoProject\\Controllers\\LandlordController.cs",
+              "ToolTip": "H:\\HEMS--Final-Project--ASP.NET--Web-API\\HEMS_FinalDemoProject\\Controllers\\LandlordController.cs",
               "RelativeToolTip": "HEMS_FinalDemoProject\\Controllers\\LandlordController.cs",
               "ViewState": "AQIAAAsAAAAAAAAAAAAxwAQAAAASAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
@@ -438,11 +461,11 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 24,
+              "DocumentIndex": 26,
               "Title": "PaymentDTO.cs",
-              "DocumentMoniker": "D:\\Spring 2024\\Final-Demo-Project---ASP.NET-API\\BLL\\DTOs\\PaymentDTO.cs",
+              "DocumentMoniker": "H:\\HEMS--Final-Project--ASP.NET--Web-API\\BLL\\DTOs\\PaymentDTO.cs",
               "RelativeDocumentMoniker": "BLL\\DTOs\\PaymentDTO.cs",
-              "ToolTip": "D:\\Spring 2024\\Final-Demo-Project---ASP.NET-API\\BLL\\DTOs\\PaymentDTO.cs",
+              "ToolTip": "H:\\HEMS--Final-Project--ASP.NET--Web-API\\BLL\\DTOs\\PaymentDTO.cs",
               "RelativeToolTip": "BLL\\DTOs\\PaymentDTO.cs",
               "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
@@ -450,11 +473,11 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 25,
+              "DocumentIndex": 27,
               "Title": "ReviewController.cs",
-              "DocumentMoniker": "D:\\Spring 2024\\Final-Demo-Project---ASP.NET-API\\HEMS_FinalDemoProject\\Controllers\\ReviewController.cs",
+              "DocumentMoniker": "H:\\HEMS--Final-Project--ASP.NET--Web-API\\HEMS_FinalDemoProject\\Controllers\\ReviewController.cs",
               "RelativeDocumentMoniker": "HEMS_FinalDemoProject\\Controllers\\ReviewController.cs",
-              "ToolTip": "D:\\Spring 2024\\Final-Demo-Project---ASP.NET-API\\HEMS_FinalDemoProject\\Controllers\\ReviewController.cs",
+              "ToolTip": "H:\\HEMS--Final-Project--ASP.NET--Web-API\\HEMS_FinalDemoProject\\Controllers\\ReviewController.cs",
               "RelativeToolTip": "HEMS_FinalDemoProject\\Controllers\\ReviewController.cs",
               "ViewState": "AQIAABIAAAAAAAAAAAAlwCAAAAA2AAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
@@ -462,11 +485,11 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 26,
+              "DocumentIndex": 28,
               "Title": "PaymentController.cs",
-              "DocumentMoniker": "D:\\Spring 2024\\Final-Demo-Project---ASP.NET-API\\HEMS_FinalDemoProject\\Controllers\\PaymentController.cs",
+              "DocumentMoniker": "H:\\HEMS--Final-Project--ASP.NET--Web-API\\HEMS_FinalDemoProject\\Controllers\\PaymentController.cs",
               "RelativeDocumentMoniker": "HEMS_FinalDemoProject\\Controllers\\PaymentController.cs",
-              "ToolTip": "D:\\Spring 2024\\Final-Demo-Project---ASP.NET-API\\HEMS_FinalDemoProject\\Controllers\\PaymentController.cs",
+              "ToolTip": "H:\\HEMS--Final-Project--ASP.NET--Web-API\\HEMS_FinalDemoProject\\Controllers\\PaymentController.cs",
               "RelativeToolTip": "HEMS_FinalDemoProject\\Controllers\\PaymentController.cs",
               "ViewState": "AQIAAA8AAAAAAAAAAIA3wB8AAAAhAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
@@ -474,11 +497,11 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 27,
+              "DocumentIndex": 29,
               "Title": "PropertyBiddingDTO.cs",
-              "DocumentMoniker": "D:\\Spring 2024\\Final-Demo-Project---ASP.NET-API\\BLL\\DTOs\\PropertyBiddingDTO.cs",
+              "DocumentMoniker": "H:\\HEMS--Final-Project--ASP.NET--Web-API\\BLL\\DTOs\\PropertyBiddingDTO.cs",
               "RelativeDocumentMoniker": "BLL\\DTOs\\PropertyBiddingDTO.cs",
-              "ToolTip": "D:\\Spring 2024\\Final-Demo-Project---ASP.NET-API\\BLL\\DTOs\\PropertyBiddingDTO.cs",
+              "ToolTip": "H:\\HEMS--Final-Project--ASP.NET--Web-API\\BLL\\DTOs\\PropertyBiddingDTO.cs",
               "RelativeToolTip": "BLL\\DTOs\\PropertyBiddingDTO.cs",
               "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
@@ -486,11 +509,11 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 28,
+              "DocumentIndex": 30,
               "Title": "App.config",
-              "DocumentMoniker": "D:\\Spring 2024\\Final-Demo-Project---ASP.NET-API\\DAL\\App.config",
+              "DocumentMoniker": "H:\\HEMS--Final-Project--ASP.NET--Web-API\\DAL\\App.config",
               "RelativeDocumentMoniker": "DAL\\App.config",
-              "ToolTip": "D:\\Spring 2024\\Final-Demo-Project---ASP.NET-API\\DAL\\App.config",
+              "ToolTip": "H:\\HEMS--Final-Project--ASP.NET--Web-API\\DAL\\App.config",
               "RelativeToolTip": "DAL\\App.config",
               "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000601|",
@@ -498,11 +521,11 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 29,
+              "DocumentIndex": 31,
               "Title": "FeedbackRepo.cs",
-              "DocumentMoniker": "D:\\Spring 2024\\Final-Demo-Project---ASP.NET-API\\DAL\\Repos\\FeedbackRepo.cs",
+              "DocumentMoniker": "H:\\HEMS--Final-Project--ASP.NET--Web-API\\DAL\\Repos\\FeedbackRepo.cs",
               "RelativeDocumentMoniker": "DAL\\Repos\\FeedbackRepo.cs",
-              "ToolTip": "D:\\Spring 2024\\Final-Demo-Project---ASP.NET-API\\DAL\\Repos\\FeedbackRepo.cs",
+              "ToolTip": "H:\\HEMS--Final-Project--ASP.NET--Web-API\\DAL\\Repos\\FeedbackRepo.cs",
               "RelativeToolTip": "DAL\\Repos\\FeedbackRepo.cs",
               "ViewState": "AQIAAAMAAAAAAAAAAAAAAAAAAAAAAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
@@ -510,11 +533,11 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 30,
+              "DocumentIndex": 32,
               "Title": "SupportTicketRepo.cs",
-              "DocumentMoniker": "D:\\Spring 2024\\Final-Demo-Project---ASP.NET-API\\DAL\\Repos\\SupportTicketRepo.cs",
+              "DocumentMoniker": "H:\\HEMS--Final-Project--ASP.NET--Web-API\\DAL\\Repos\\SupportTicketRepo.cs",
               "RelativeDocumentMoniker": "DAL\\Repos\\SupportTicketRepo.cs",
-              "ToolTip": "D:\\Spring 2024\\Final-Demo-Project---ASP.NET-API\\DAL\\Repos\\SupportTicketRepo.cs",
+              "ToolTip": "H:\\HEMS--Final-Project--ASP.NET--Web-API\\DAL\\Repos\\SupportTicketRepo.cs",
               "RelativeToolTip": "DAL\\Repos\\SupportTicketRepo.cs",
               "ViewState": "AQIAAAsAAAAAAAAAAAAQwAAAAAAAAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",

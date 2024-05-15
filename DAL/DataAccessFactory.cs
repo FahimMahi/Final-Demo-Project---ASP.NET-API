@@ -48,7 +48,14 @@ namespace DAL
         {
             return new ReviewRepo();
         }
-
+        public static IRepoDurjoy<Agreement, int> AgreementData()
+        {
+            return new AgreementRepo();
+        }
+        public static IRepoDurjoy<Complain, int> ComplainData()
+        {
+            return new ComplainRepo();
+        }
         public static IRepo<SupportTicket, int> SupportTicketData()
         {
             return new SupportTicketRepo();

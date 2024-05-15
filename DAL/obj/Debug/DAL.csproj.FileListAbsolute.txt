@@ -83,3 +83,17 @@ D:\Spring 2024\Final-Demo-Project---ASP.NET-API\DAL\obj\Debug\DAL.dll
 D:\Spring 2024\Final-Demo-Project---ASP.NET-API\DAL\obj\Debug\DAL.pdb
 D:\Spring 2024\Final-Demo-Project---ASP.NET-API\DAL\obj\Debug\DAL.Migrations.AllDone.resources
 D:\Spring 2024\Final-Demo-Project---ASP.NET-API\DAL\obj\Debug\DAL.csproj.GenerateResource.cache
+H:\HEMS--Final-Project--ASP.NET--Web-API\DAL\bin\Debug\DAL.dll.config
+H:\HEMS--Final-Project--ASP.NET--Web-API\DAL\bin\Debug\DAL.dll
+H:\HEMS--Final-Project--ASP.NET--Web-API\DAL\bin\Debug\DAL.pdb
+H:\HEMS--Final-Project--ASP.NET--Web-API\DAL\bin\Debug\EntityFramework.dll
+H:\HEMS--Final-Project--ASP.NET--Web-API\DAL\bin\Debug\EntityFramework.SqlServer.dll
+H:\HEMS--Final-Project--ASP.NET--Web-API\DAL\bin\Debug\EntityFramework.xml
+H:\HEMS--Final-Project--ASP.NET--Web-API\DAL\bin\Debug\EntityFramework.SqlServer.xml
+H:\HEMS--Final-Project--ASP.NET--Web-API\DAL\obj\Debug\DAL.csproj.AssemblyReference.cache
+H:\HEMS--Final-Project--ASP.NET--Web-API\DAL\obj\Debug\DAL.csproj.CoreCompileInputs.cache
+H:\HEMS--Final-Project--ASP.NET--Web-API\DAL\obj\Debug\DAL.csproj.Up2Date
+H:\HEMS--Final-Project--ASP.NET--Web-API\DAL\obj\Debug\DAL.dll
+H:\HEMS--Final-Project--ASP.NET--Web-API\DAL\obj\Debug\DAL.pdb
+H:\HEMS--Final-Project--ASP.NET--Web-API\DAL\obj\Debug\DAL.Migrations.ComplainAndAgreementAdded.resources
+H:\HEMS--Final-Project--ASP.NET--Web-API\DAL\obj\Debug\DAL.csproj.GenerateResource.cache
